@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Math",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "CodeNinjas",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2561797752809,
+  "lineSizeMultiplier": 1.55898876404494,
+  "collapse-forces": false,
+  "centerStrength": 0.544943820224719,
+  "repelStrength": 9.10112359550562,
+  "linkStrength": 0.646067415730337,
+  "linkDistance": 233,
+  "scale": 0.47363170253291825,
+  "close": true
+}

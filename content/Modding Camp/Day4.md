@@ -1,0 +1,114 @@
+---
+title: "Day 4"
+tags:
+  - CodeNinjas
+---
+
+# Day 4 MC Modding Camp
+
+#### Enchantments, ranged weapons, food
+
+- Enchantment
+  - Add Mod element for enchantment. This doesn't make it do anything, just makes it a book in the game
+  - Properties Explanation, the ones that arent obvious at least
+    - Type - what type of item can this enchantment be used on
+    - Min/Max level - what levels does your enchantment go up to
+    - Can be applied to - If they wanna limit what items it can be used on
+    - Can be combined with - Limit what other enchantments it can be combined with
+  - Add a procedure, it'll look like this (do it as a sort of walkthrough probably)
+  - ![[Modding Camp/encahtn.png]]
+    - This one adds a potion effect to the entity hit based on the level of enchantment
+    - The variables on the right are itemInHand - itemstack and enchantLevel - number, you make them by clicking the green plus next to Local variables on the right side
+  - Let them modify this and make new enchantments for different effects in the game
+  - If you come up with other ideas for enchantments feel free to show them or make them on screen and let them try and copy etc, I think this one and any variation is basic enough that they can make changes and experiment with it pretty easily. Also you can use it as an opportunity to explain what a variable is, and show how we can use variables in our code (if the EnchtSize is 0, then the potion effect isn't applied b/c 20* 0 is 0 etc). Also can explain what an *if\* block does and conditionals. Tiny little bits of learning code concepts in their cool minecraft modding camp :)
+- Ranged Weapon
+  - Either do both of these options or just one, your pick
+  - Bow/Arrow type ranged weapon
+    - Make a texture for your bow part (could be a type of gun, bow, crossbow etc), **save as Item texture**
+    - Make a texture for the projectile (bullet, arrow etc) **save as Item texture**
+    - In Mod elements, create an Item for the projectile. Only give it the texture, don't change any other settings for this item
+    - Create a Ranged Item
+      - Choose the texture they made
+      - Item Animation, what the item will act like when they use it.
+      - Max stack size 1
+      - Item for ammo, set to the item they just made
+      - Shoot constantly while active - optional for their weapon
+      - Item usage count - durability
+      - they can chagne the sound if they want
+      - Under the projectile settings at the bottom, they can change the power, damage, knockback etc.
+      - Main thing to change there is the **Item representing texture of projectile**, change it to the item/texture they made.
+      - Triggers if they want to mess with them
+    - Add recipes for both the ammo and the weapon
+  - Snowball type ranged weapon
+    - Make texture for the snowball type thing **save as Item texture**
+    - Create a ranged item
+      - Set the max stack size to something other than 1, it's how many can be in a stack. eg snowballs can have 16 in a stack
+      - set item animation to none
+      - set shoot constantly while active to true
+      - **set item usage count to 0**
+      - set the sound if they want to change it
+      - **IMPORTANT PARTS HERE**
+      - Set the item for ammo to _anything_ and the **Item representing texture of projectile** under projectile at the bottom to anything.
+      - After they save mod element, go back into it and set those two things to the ranged item they just finished making.
+        - basically MCreator won't let you choose the item youre currently making, so they have to save it and then go back in to choose that item
+      - Rest of the settings act the same
+      - Recipe as per usual
+- Food
+
+  - Owen said that when he did the camp they really liked making new food items, so I figured leave this for last and let them mess around with it the most and make what they want.
+  - Food stuff is pretty basic, it's make texture **save as Item texture**, make Item mod element, go to food properties and make it a food and change the properties
+
+- BONUS THINGS
+  - If for some reason the above stuff doesnt take up enough time, or we decide the last day needs some follow along content as well, here are some bonus things that can be done
+  - These are in order of difficulty, easiest to hardest
+- Potions
+  - Really simple
+  - Make a **potion item** mod element
+  - Name the different potions at the top, add effects at the bottom.
+    - The duration is in ticks, so 20 ticks per second \* x amount of seconds = the duration they want
+    - Amplifier increases the level
+  - Theres no way to change the color of the potion that I can see, its just auto generated
+- Paintings
+  - Very very simple to do
+  - Download any image from the internet, save it to downloads (somewhere they can get to)
+  - Make a new painting
+  - Click the plus to add a new image, find their image
+  - Click the dropdown and choose their image
+  - The hardest part about this is the painting size, it lets you choose any size but paintings usually go across full blocks
+  - A single block is 16x16, so if they want it to be a 2x2 of blocks, it needs to be 32x32 pixels, if they want it to be a 4x4 of blocks, 64x64 and so on.
+    - Quick conversion table
+    - Width X Height in MCreator/in pixels ----- Width X Height in Minecraft/Blocks
+    - 16x16 --- 1x1
+    - 16x32 --- 1x2
+    - 32x16 -- 2x1
+    - 32x32 --- 2x2
+    - 64x64 --- 4x4
+    - I don't think Minecraft does any other sizes, but you get the idea those are the intervals
+- Plants
+  - Plants are another pretty easy one, they make a block texture for one side of the plant and MCreator generates the rest of it for them.
+  - It'll be a little hard when making textures but theyre more than welcome to try it out
+  - In Visual and type section, just choose the top/main texture and leave the rest of it
+  - skip bounding boxes
+  - properties can be changed as usual, question marks explain them better. These properties are mostly the same as the blocks
+  - I wouldn't mess with the advanced properties or triggers here at all
+  - In Generation they can mess with stuff, just know theyll have to make a new world to see it actually generate.
+  - The plants are difficult to create textures for imo, but not difficult to actually make
+- Dimension
+  - They will need textures for the item used to light the portal and for the portal itself
+  - Also will need a block to use for the portal frame, have to make the block mod element if they are making their own
+  - Properties
+    - I"d recommend normal world gen
+    - Set a main filler block and fluid block
+    - Add any biomes they want to appear in this dimension (could even be the ones theyve made)
+    - Sky/fog color can be changed
+    - Whether to allow sleeping or not
+    - All the check marks are kind of obvious
+  - Portal Section
+    - Make sure dimension portal is enabled
+    - Portal frame block - this is the equivalent of obsidian for the nether portal
+    - Particles - the particles coming off the portal
+    - Luminance - how much it lights up
+    - Igniter item name - name of the item used to ignite the portal eg flint and steel
+    - set the textures for the igniter item and the block at teh bottom
+  - As far as I can tell theres no way to craft the item for the custom portal, itll have to be a creative only thing i think
+  - This entire thing is likely to be buggy but if they wanna do it the option is there

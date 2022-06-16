@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: General
 about: Something doesn't look right
-title: ''
-labels: bug
-assignees: ''
-
+title: ""
+labels: enhancement
+assignees: ""
 ---
+
 What's not looking right?

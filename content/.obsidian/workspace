@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "317b66cfd1b174a6",
+        "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -48,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "260a7f0581f3f700",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -62,7 +66,6 @@
       {
         "id": "aa7a328c821154db",
         "type": "tabs",
-        "dimension": 66.32996632996633,
         "children": [
           {
             "id": "4a37b418aa397e0b",
@@ -70,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,37 +119,22 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4af06884294c1a71",
-        "type": "tabs",
-        "dimension": 33.670033670033675,
-        "children": [
-          {
-            "id": "260a7f0581f3f700",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 289
   },
-  "active": "317b66cfd1b174a6",
+  "active": "1f28c182b0af1282",
   "lastOpenFiles": [
     "_index.md",
+    "First Year Composition - ENGL 106.md",
     "Calculus 2 - MA 162.md",
-    "index.md",
-    "Modding Camp/Minecraft Modding Camp Notes Codeninjas.md",
-    "Modding Camp/index.md",
-    "Modding Camp/Day4.md",
-    "Modding Camp/Day 3 Mod Camp.md",
-    "3D Vectors and Shapes.md",
-    "Series.md",
-    "Convergence and Divergence.md"
+    "Rhetorical Analysis.md",
+    "Rhetorical Situation.md",
+    "Genre.md",
+    "Library Research.md",
+    "Prewriting.md",
+    "Writing Process.md",
+    "Rhetoric.md"
   ]
 }

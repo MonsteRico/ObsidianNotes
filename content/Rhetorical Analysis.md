@@ -9,7 +9,7 @@ A [[Genre]] used for analyzing a (usually) scholarly article rhetorically.
 
 - Rhetorical Analysis is a way to interpret a text to determine why it is or is not effective
 	- Usually focuses on an authors [[Rhetoric|rhetorical]] decisions
-	- e.g. is an author effective in reaching their [[Audience and Context|audience]] with a given element or paragraph of their text
+	- e.g. is an author effective in reaching their audience with a given element or paragraph of their text
 - We usually have a thesis statement that sets up how we're going to break down the texts use of rhetorical strategies
 	- This sets up our purpose and angle for our analysis
 - An important element of rhetorical analyses are the Greek Appeals (the proofs)

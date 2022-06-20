@@ -7,8 +7,12 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rhetorical Analysis.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rhetorical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Rhetorical Analysis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,12 +132,12 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "Rhetorical Analysis.md",
+    "Genre.md",
+    "Calculus 2 - MA 162.md",
     "_index.md",
     "First Year Composition - ENGL 106.md",
-    "Calculus 2 - MA 162.md",
-    "Rhetorical Analysis.md",
     "Rhetorical Situation.md",
-    "Genre.md",
     "Library Research.md",
     "Prewriting.md",
     "Writing Process.md",

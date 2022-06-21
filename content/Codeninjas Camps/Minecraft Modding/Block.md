@@ -9,7 +9,7 @@ tags:
 - Enter a new name for the block, there are certain restrictions to follow make sure they follow them. Also try not to include the word "Block" in the names
 - Also do not use existing block names, e.g. Dirt, Diamond etc.
 
-Following is a description of all the different tabs that are at the bottom. You can navigate to each of them by clicking each of them.
+Following is a description of all the different tabs that are at the bottom. You can navigate to each of them by clicking each of them. The ? next to each thing will give some information when you click on it.
 
 ![[Pasted image 20220621174417.png]]
 
@@ -26,4 +26,18 @@ Following is a description of all the different tabs that are at the bottom. You
 - Transparency should be left as default
 - Special information empty
 
-## 
+## Bounding Boxes
+I don't know anything about these, avoid them for now
+
+## Properties
+Most of these are self explanatory or are explained by the ?
+- In-game name - the name that shows up in game
+- Material - Block material defines some base block properties such as reaction to pistons, water, plant growing options and more.     If you intend to use the block for ore, select ROCK material so the harvest level is properly applied.
+- Creative Inventory Tab - what tab it shows up in in creative menu
+- Hardness - higher value = longer to mine block
+- Resistance - resistance to explosions
+- Slipperiness - 0.6 is default, increase it to make it more like Ice
+- Jump Factor - 1 is default, higher number increases jump height while on block, lower decreases
+- Speed Factor - 1 is default, higher number increases speed while on block, lower decreases
+- Luminance - Light level the block emits, from 0 to 15. 0 is none, 15 is like glowstone
+- 

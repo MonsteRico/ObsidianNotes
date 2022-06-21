@@ -21,4 +21,9 @@ Following is a description of all the different tabs that are at the bottom. You
 	- The Block Item Texture just lets you choose an item texture for the block, if they really want to do that for some reason.
 	- The Block base setting is used to make [[Codeninjas Camps/Minecraft Modding/Not Full Blocks|stairs, slabs, leaves etc.]], but I need to look into how the textures need to actually be made for this
 - For Block Model just leave it as Normal or Single Texture, the other options don't do much for us. Single texture applies the same texture to all sides. Normal lets you choose textures for each side.
-- 
+- Rotation Mode lets you choose how the block rotates it's texture if it's placed from different sides. 
+- Waterloggable only works on stairs, slabs, leaves, etc.
+- Transparency should be left as default
+- Special information empty
+
+## 

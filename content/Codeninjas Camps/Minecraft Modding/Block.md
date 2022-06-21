@@ -74,3 +74,7 @@ Beyond scope of camp
 [[Codeninjas Camps/Minecraft Modding/Triggers|Triggers]]
 
 ## Generation
+- Use Uniform distribution
+- Click plus for dimensions to generate in, add Overworld
+- Change average amount of ores in a group to a number between **1 and 16**
+- Minimum and Max generation height are exactly what they say

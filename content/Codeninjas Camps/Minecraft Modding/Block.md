@@ -40,4 +40,9 @@ Most of these are self explanatory or are explained by the ?
 - Jump Factor - 1 is default, higher number increases jump height while on block, lower decreases
 - Speed Factor - 1 is default, higher number increases speed while on block, lower decreases
 - Luminance - Light level the block emits, from 0 to 15. 0 is none, 15 is like glowstone
+- Light Opacity - how much light travels through the block. 0 means all light goes through, 15 means none goes through
+- Has Gravity? - obvious
+- Can walk through? - obvious
+- Glowing? - obvious, glow like magma
+- Is replaceable? - replaceable like flowers
 - 

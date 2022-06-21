@@ -10,7 +10,7 @@ tags:
 
   - Create a texture for it, create the mod element, set up the properties however they want
   - In the triggers section of the tool or item, add procedures to **Living entity is hit with tool** and/or **When tool in hand tick**
-  - ![[Modding Camp/Trigger 1.png]]
+  - ![[Codeninjas Camps/Minecraft Modding/Trigger 1.png]]
   - The procedure to add a simple potion effect looks like this, they know what the effects probably are by now.
   - A second is 20 ticks, make sure they keep that in mind when setting the ticks value
   - Any other general cool effects you can think of to walk them through, feel free to do so.
@@ -21,7 +21,7 @@ tags:
   - **VERY IMPORTANT STEP HERE MAKE SURE THEY DO THIS**
   - They need to click the button that says **Outer layer** and turn it off, or else the texture they' make wont work right in MCreator.
   - Julian likely will know more about this if he has done it before
-  - Screen should look like this ![[Modding Camp/Outer Layer.png]]'
+  - Screen should look like this ![[Codeninjas Camps/Minecraft Modding/Outer Layer.png]]'
   - The tools should be pretty self explanatory, but theres pencil eraser, eyedropper, bucket zoom etc
   - Left click outside of the skin to pan around the skin and color in all parts
   - Once finished they download it and save it to downloads folder

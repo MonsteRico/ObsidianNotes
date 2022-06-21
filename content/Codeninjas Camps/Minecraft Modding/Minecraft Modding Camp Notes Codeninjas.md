@@ -78,7 +78,7 @@ tags:
 
 ## Day 3 - Custom bipedal mob and various special effects or stuff for it
 
-[[Modding Camp/Day 3 Mod Camp]]
+[[Codeninjas Camps/Minecraft Modding/Day 3 Mod Camp]]
 
 - Today we make a mob
 - beginning talk about mobs, types of mobs, what is a mob etc.
@@ -95,7 +95,7 @@ tags:
 
 ## Day 4 - Misc. stuff day
 
-[[Modding Camp/Day4]]
+[[Codeninjas Camps/Minecraft Modding/Day 4]]
 
 #### Enchantments, ranged weapons, food
 

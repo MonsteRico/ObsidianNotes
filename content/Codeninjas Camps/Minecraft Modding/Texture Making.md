@@ -21,5 +21,6 @@ Textures in MCreator are made using an MS Paint style of drawing canvas.
 - You can change colors by clicking on the color and choosing a new one. The tool properties are below that (where it says Pencil in the picture above). All fairly obvious.
 - Drawing is easy, just left click. Like I said it's MS Paint.
 - When you're done hit Save as New Texture or Save this Texture in the top right
+- It'll ask you for a name for the texture. There are certain restrictions on the names, make sure they follow them!
 - ![[Pasted image 20220621173438.png]]
-- To go back to the main mod menu
+- To go back to the main mod menu click on the X in the tab for the texture (if its still open) and then click Mod elements on the left

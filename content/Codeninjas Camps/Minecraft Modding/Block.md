@@ -9,6 +9,13 @@ tags:
 - Enter a new name for the block, there are certain restrictions to follow make sure they follow them. Also try not to include the word "Block" in the names
 - Also do not use existing block names, e.g. Dirt, Diamond etc.
 
+## Steps to actually make a block
+1. Make new block texture - [[Codeninjas Camps/Minecraft Modding/Texture Making|Making Textures]]
+2. Make block mod element - above
+3. Change blocks texture - [[#Visual]]
+4. Change blocks properties - [[#Properties]]
+5. Save - top right corner Save Mod Element, green button
+
 Following is a description of all the different tabs that are at the bottom. You can navigate to each of them by clicking each of them. The ? next to each thing will give some information when you click on it.
 
 ![[Pasted image 20220621174417.png]]
@@ -45,4 +52,25 @@ Most of these are self explanatory or are explained by the ?
 - Can walk through? - obvious
 - Glowing? - obvious, glow like magma
 - Is replaceable? - replaceable like flowers
-- 
+- Custom Drop - what item the block drops. If left empty, it'll drop itself
+- Drop amount - obvious
+- Don't use loot table for drops
+- Don't use creative pick item
+- Tool able to destroy it - what tool is good at breaking this block?
+- Tool harvest level - use the ? to understand the number
+- Is Unbreakable?
+- Sound set leave  as default, or change the Vanilla sound set to whatever sound set they want, it changes the sounds when you break it, place it, walk on it etc. to be like the type of block they choose. Don't use custom sounds
+
+## Advanced Properties
+Use the ? for these if they're really wanted, but most of them are beyond the scope of the camp. 
+
+## Block Entity
+Beyond scope of camp
+
+## Energy & Fluid Storage
+Beyond scope of camp
+
+## Triggers
+[[Codeninjas Camps/Minecraft Modding/Triggers|Triggers]]
+
+## Generation

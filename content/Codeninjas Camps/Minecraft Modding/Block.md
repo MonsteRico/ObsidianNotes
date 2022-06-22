@@ -18,7 +18,7 @@ tags:
 
 Following is a description of all the different tabs that are at the bottom. You can navigate to each of them by clicking each of them. The ? next to each thing will give some information when you click on it.
 
-![[Pasted image 20220621174417.png]]
+![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621174417.png]]
 
 ## Visual
 - For the block textures, double click on each blank area and it'll let you choose from the textures that have been made. If you choose a Normal Block model on the right side, it'll let you choose textures for each side. This should be the setting by default.

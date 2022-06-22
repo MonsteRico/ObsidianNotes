@@ -16,7 +16,7 @@ tags:
     - Can be applied to - If they wanna limit what items it can be used on
     - Can be combined with - Limit what other enchantments it can be combined with
   - Add a procedure, it'll look like this (do it as a sort of walkthrough probably)
-  - ![[Codeninjas Camps/Minecraft Modding/encahtn.png]]
+  - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/encahtn.png]]
     - This one adds a potion effect to the entity hit based on the level of enchantment
     - The variables on the right are itemInHand - itemstack and enchantLevel - number, you make them by clicking the green plus next to Local variables on the right side
   - Let them modify this and make new enchantments for different effects in the game

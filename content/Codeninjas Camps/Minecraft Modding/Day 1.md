@@ -15,9 +15,9 @@ tags:
 -  Close computers halfway while we talk about textures
 - How does Minecraft do textures? (ask the ninjas)
 - It uses sprite sheets basically, pulling from the sprite sheet whatever face of the block is needed and putting it in the game
-- ![[Pasted image 20220621211602.png]]
+- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621211602.png]]
 - It also "unfolds" mobs to allow for their full textures to be displayed
-- ![[Pasted image 20220621211644.png]]
+- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621211644.png]]
 - Can anyone figure out this mob? (ask, I think its a fox I honestly don't know.)
 - Google Minecraft textures/Minecraft mob textures and show some more examples. Ask them what they notice and talk a bit about textures.
 - Talk more about how Minecraft does textures if you know and/or are stalling for time for some reason
@@ -32,14 +32,14 @@ tags:
 	- The editor is basically MS Paint, it should be easy to explain and for them to use
 - Make block element
 	- [[Codeninjas Camps/Minecraft Modding/Block|Blocks]] - Full details on block mod elements
-	- Go back to the workspace, click the ![[Pasted image 20220621212248.png]] green plus and make a block. 
+	- Go back to the workspace, click the ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621212248.png]] green plus and make a block. 
 	- On the first page (Visual section) they will have to put in their texture, that should be the only thing they have to mess with here
 	- On the properties page they can change all the different settings on the block. You can go over some of the main ones like Hardness, In Game Name, and Creative Tab
 	- Clicking on the question marks next to anything will bring up a little popup of what that thing does, **Make sure they know this it will save them and you time**
 	- Don't spend too much time messing around with properties here, we want to get them to the point of seeing their new block in game. 
 	- Make sure that before moving on everyone has the texture set up right, the in game name set up, and the creative tab set to something other than none
 - Test It!
-	- ![[Pasted image 20220621212732.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621212732.png]]
 	- Once they have saved their mod element, press the green play button located in the top right
 	- This will open up a version of Minecraft with their mod already loaded into it.
 	- They can make a new world to test in, go into their inventory, and should be able to find their block
@@ -54,7 +54,7 @@ tags:
 - [[Codeninjas Camps/Minecraft Modding/Recipes|Recipes]] - Full details on the recipes
 - Make a new recipe and name it
 - It'll bring up a crafting grid like this 
-![[Pasted image 20220621213350.png]]
+![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621213350.png]]
 - They can click on a spot in the grid and choose what goes in that spot
 - They can also choose what goes in the output spot (our new block) on the right, and the amount of that output that is crafted
 - They probably all understand how crafting works, it shouldn't be too hard for them to get a grasp of this

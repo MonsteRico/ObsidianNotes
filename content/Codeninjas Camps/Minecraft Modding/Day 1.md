@@ -5,20 +5,17 @@ tags:
   - CodeNinjas
 ---
 ## Day 1 - Intro, Ore, Tools
-
-- Play Minecraft until everyone arrives, just have them log in or use our accounts for singleplayer
+- Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer
 - CAMP INTRO
-  - THERE WILL BE NO MULTIPLAYER UNTIL THE END MAYBE THIS IS IMPORTANT FOR THEM TO KNOW THEY USUALLY ALMOST ALWAYS WANT TO PLAY MULTIPLAYER AND WE CANT DO IT BECAUSE WIFIS WEIRD THATS THE REASON
-  - Set expectations, you can make cool stuff really fast but really complicated stuff will always take time, and we might not have enough time to do it or go over it
-  - We will give their parents instructions to download the mods and play them at home at the end if theyre wanted
-  - As an icebreaker we do Name, Age/Grade, How long youve been playing Minecraft OR your favortie block/mob/item/biome/mod/...
-- WE BEGIN
-- Have everyone start MCreator and make their workspace. This will take about 10 minutes so we talk about the next thing WITH this
-- Textures
-  - How does Minecraft do textures? (ask) (also know)
-  - it uses spritesheets basically, pulling from the spritesheet whatever face of the block is needed and putting it in the game
-  - it also "unfolds" mobs to allow for their full textures to be displayed
-  - Talk about how MC does textures and show some examples
+  - Chris will go over general rules
+  - As an icebreaker we do Name, Age/Grade, How long you've been playing Minecraft OR your favorite block/mob/item/biome/mod/etc.
+- Have everyone start up MCreator and go into their Workspace.
+-  Close computers halfway while we talk about textures
+  - How does Minecraft do textures? (ask the ninjas)
+  - It uses sprite sheets basically, pulling from the sprite sheet whatever face of the block is needed and putting it in the game
+  - ![[Pasted image 20220621211602.png]]
+  - It also "unfolds" mobs to allow for their full textures to be displayed
+  - Talk more about how Minecraft does textures if you know and/or are stalling for time for some reason
 - Make our first block
   - Make our own texture, completely custom (don't show templates yet)
   - Go create the block entity

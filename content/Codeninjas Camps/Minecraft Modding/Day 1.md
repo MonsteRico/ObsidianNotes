@@ -5,13 +5,13 @@ tags:
   - CodeNinjas
 ---
 ## Day 1 - Intro, Ore, Tools
-- Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer
-## Intro
+- Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer. don't delay camp start by more than 15 minutes even if someone's late. **ever**. don't.
+## Intro - 5 Min
 - Chris will go over general rules
 - As an icebreaker we do Name, Age/Grade, How long you've been playing Minecraft OR your favorite block/mob/item/biome/mod/etc.
 - Have everyone start up MCreator and go into their Workspace.
 
-## Talk about textures
+## Talk about textures - 10 min
 -  Close computers halfway while we talk about textures
 - How does Minecraft do textures? (ask the ninjas)
 - It uses sprite sheets basically, pulling from the sprite sheet whatever face of the block is needed and putting it in the game
@@ -22,7 +22,7 @@ tags:
 - Google Minecraft textures/Minecraft mob textures and show some more examples. Ask them what they notice and talk a bit about textures.
 - Talk more about how Minecraft does textures if you know and/or are stalling for time for some reason
 
-## First Block
+## First Block - 45 min
 - First thing we will do modding-wise is make our first block
 - We are not making an ore yet! We will definitely do that, but right now we are just getting used to MCreator and what it takes to make things in MCreator
 - I recommend breaking the steps down and doing it as follows. Do each bullet point on screen and have them watch it, then have them do that part.
@@ -49,7 +49,7 @@ tags:
 	- Go to the properties tab on the block and look more in depth at some of them.
 	- Give them a little bit of time to change some properties, save, and test them out!
 
-## First Recipe
+## First Recipe - 25 min
 - After messing around with the block properties, we will now be making a Recipe for our block!
 - [[Codeninjas Camps/Minecraft Modding/Recipes|Recipes]] - Full details on the recipes
 - Make a new recipe and name it
@@ -59,11 +59,14 @@ tags:
 - They can also choose what goes in the output spot (our new block) on the right, and the amount of that output that is crafted
 - They probably all understand how crafting works, it shouldn't be too hard for them to get a grasp of this
 - The things on the left shouldn't need to be changed with the exception of the recipe type and cooking time in case of smelting
-- You can show them the Smelting
+	- You can show them the Smelting recipes, although they probably won't need to smelt to make their block. That'll be useful when we get to ores if they're asking about it
+	- In terms of the other recipe types, after we've made one for the block and tested it they can mess with them as well
+- Save the mod element, go into Minecraft, and test the new recipe by actually making it in a crafting table
 
+- Let them go back to MCreator and mess around with recipes and make new recipes for existing things
+- They can also make more textures for blocks and make more blocks and recipes for them etc. there's already a lot they could do!
 
-
-- Short break to let them mess around with recipe and block, maybe making new recipes for existing things.
+## Break 10-15 min
 
 
 - Come back together for an ore quiz smelting quiz etc

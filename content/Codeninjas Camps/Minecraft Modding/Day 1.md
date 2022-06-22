@@ -69,7 +69,8 @@ tags:
 ## Break - 15 min
 
 - ore/smelting quiz 10-15
-- ore/ingot/generating
+- ore/ingot/generating it and recipes etc etc - 45
+- finding ore and free play at end 15 ish
 
 
 

@@ -68,6 +68,10 @@ tags:
 
 ## Break - 15 min
 
+- ore/smelting quiz 10-15
+- ore/ingot/generating
+
+
 
 - Come back together for an ore quiz smelting quiz etc
 - Make our own ore, use texture maker and a random ore texture

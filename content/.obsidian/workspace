@@ -7,7 +7,7 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -128,13 +128,13 @@
   "lastOpenFiles": [
     "_index.md",
     "First Year Composition - ENGL 106.md",
+    "3D Vectors and Shapes.md",
     "Calculus 2 - MA 162.md",
+    "Modding Camp/Minecraft Modding Camp Notes Codeninjas.md",
+    "Modding Camp/Day4.md",
     "Rhetorical Analysis.md",
     "Rhetorical Situation.md",
     "Genre.md",
-    "Library Research.md",
-    "Prewriting.md",
-    "Writing Process.md",
-    "Rhetoric.md"
+    "Library Research.md"
   ]
 }

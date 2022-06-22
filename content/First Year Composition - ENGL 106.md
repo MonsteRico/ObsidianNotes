@@ -2,6 +2,7 @@
 
 title: "First Year Composition - ENGL 106"
 tags:
+  - English
 ---
 # First Year Composition - ENGL 106, 2022, Freshman Year Summer
 

@@ -7,8 +7,12 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,19 +128,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "Codeninjas Camps/Minecraft Modding/Day 1.md",
+    "Codeninjas Camps/Minecraft Modding/Texture Making.md",
+    "Codeninjas Camps/Minecraft Modding/Block.md",
+    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md",
+    "Convergence and Divergence.md",
+    "Codeninjas Camps/Minecraft Modding/Trigger 1.png",
+    "Codeninjas Camps/Building Your own Robot in Minecraft.md",
+    "Codeninjas Camps/CodeNinjas Camps.md",
     "_index.md",
-    "First Year Composition - ENGL 106.md",
-    "3D Vectors and Shapes.md",
-    "Calculus 2 - MA 162.md",
-    "Modding Camp/Minecraft Modding Camp Notes Codeninjas.md",
-    "Modding Camp/Day4.md",
-    "Rhetorical Analysis.md",
-    "Rhetorical Situation.md",
-    "Genre.md",
-    "Library Research.md"
+    "Codeninjas Camps/Minecraft Modding/Day 3 Mod Camp.md"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -18,7 +18,14 @@
       "query": "CodeNinjas",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "English",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
       }
     },
     {

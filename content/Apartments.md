@@ -3,6 +3,7 @@
 title: "Apartments"
 tags:
 ---
+# Matthews wonderful apartment notes
 # Hub
 - [Hub](https://huboncampus.com/west-lafayette-state-street/)
 - loud part of campus, seemed very party central first time i looked

@@ -9,6 +9,8 @@ tags:
 - most bathrooms not in rooms
 - more expensive
 - decent amenities, not exactly same as edge though
+- OPPORTUNITY FOR A PRIVATE HOT TUB FOR 1000+
+- pet friendly as long as its less than 30 lbs fully grown. milo cant be fat :)
 # Campus Edge
 - a little set off from chauncey hill, so not AS bad in terms of loud part of campus probably
 - doesn't allow more people on lease than rooms in an apartment
@@ -17,6 +19,7 @@ tags:
 - the townhomes require us to have a 4th person
 - most bathrooms not in rooms, some are
 - has "deluxe" rooms where those people end up having to pay a little more rent
+- not pet friendly apparently? even though i thought they were?
 # Rise
 - on chauncey hill, louder part of campus
 - supposedly has eleveator problems in a 10 floor building

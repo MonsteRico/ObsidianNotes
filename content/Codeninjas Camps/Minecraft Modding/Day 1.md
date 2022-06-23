@@ -75,12 +75,26 @@ tags:
 - [Minecraft Ores Quiz (sporcle.com)](https://www.sporcle.com/games/lmasta/minecraft-underground-ores)
 
 ## Ore/Ingot - Rest of time - 15 mins (idk i cant do math)
-- Next we are going to make a custom ore that generates *in the world*
-- First thing we need to do is create the textures
-- Go to the resources tab, create a new texture
-- This time we're going to use the template and find an ore template
-- 
-
+- Textures
+	- Next we are going to make a custom ore that generates *in the world*
+	- First thing we need to do is create the textures
+	- Go to the resources tab, create a new texture
+	- This time we're going to use the template and find an ore template
+	- ![[Pasted image 20220623163306.png]]
+	- They can also choose to create the template from a color or from scratch
+	- Once the ore has been made, create another texture. For this template, search for either GEM or INGOT
+	- ![[Pasted image 20220623163540.png]]
+	- ![[Pasted image 20220623163549.png]]
+	- They can change the color of these templates however they want
+- The Ore
+	- Once the textures have been made, go back to the mod elements tab
+	- Create a new block for the ore and edit the properties how they want, mainly theyll want to look at the hardness and tool harvest level to drop. leave the custom drop empty
+	- in the generation tab, click this plus and choose surface (thats the overworld)
+	- ![[Pasted image 20220623163939.png]]
+	- Average amount of ores in a group can be changed, but as it says it should be less than 32
+	- Minimum and Maximum generation height can be changed as they want as well
+	- Everything else should be left as default
+- The Gem/Ingot
 
 
 - Come back together for an ore quiz smelting quiz etc

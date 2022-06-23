@@ -82,10 +82,12 @@ tags:
 	- This time we're going to use the template and find an ore template
 	- ![[Pasted image 20220623163306.png]]
 	- They can also choose to create the template from a color or from scratch
+	- Make sure they save the texture as a BLOCK and not an ITEM
 	- Once the ore has been made, create another texture. For this template, search for either GEM or INGOT
 	- ![[Pasted image 20220623163540.png]]
 	- ![[Pasted image 20220623163549.png]]
 	- They can change the color of these templates however they want
+	- When they save the gem/ingot, make sure they save the texture as an ITEM texture and not a BLOCK texture
 - The Ore
 	- Once the textures have been made, go back to the mod elements tab
 	- Create a new block for the ore and edit the properties how they want, mainly theyll want to look at the hardness and tool harvest level to drop. leave the custom drop empty
@@ -95,18 +97,17 @@ tags:
 	- Minimum and Maximum generation height can be changed as they want as well
 	- Everything else should be left as default
 - The Gem/Ingot
-
-
-- Come back together for an ore quiz smelting quiz etc
-- Make our own ore, use texture maker and a random ore texture
-- make the ingot/gem texture
-- make the blocks and items
-- Make the Smelting Recipe for the ore
-- make it generate (part of making the ore)
-- Find it in game!
-  Rest of this is dependant on time
-- Use the quick tools to make tools and armor for our ore
-  - if someone wants to make custom textures we can help them do that
-- if lots of time left add in potion effects to our armor or tools
-  - intros the coding with very simple block code stuff
-- At the end we do freeplay. make sure we pick up their ideas and what they wanna do to get some ideas ourselves
+	- Back in the main workspace, make a new [[Codeninjas Camps/Minecraft Modding/Items|Item]]
+	- They can choose the item texture and find the texture they made
+	- There's a checkbox for glowing if they want it to glow for some reason
+	- The main properties to mess with are the in game name and creative tab
+	- Right now we aren't going to do weapons or tools or anything with our new gem, just have it be smeltable
+- The Recipe
+	- In the main workspace, make another recipe
+	- This time change the Recipe type to Smelting.
+	- They can then click on the boxes on the right and fill them in with their ore and the gem it makes
+	- Save the recipe and hit the play button to test out the new ore!
+- Testing
+	- They should **generate a new world** in minecraft so that their ore can generate. They can then spend the rest of the time trying to find their new ore.
+## Rest of the time
+- The rest of the time can be spent searching for their new ore and freeplaying in Minecraft

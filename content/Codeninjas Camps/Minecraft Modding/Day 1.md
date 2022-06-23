@@ -80,19 +80,19 @@ tags:
 	- First thing we need to do is create the textures
 	- Go to the resources tab, create a new texture
 	- This time we're going to use the template and find an ore template
-	- ![[Pasted image 20220623163306.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png]]
 	- They can also choose to create the template from a color or from scratch
 	- Make sure they save the texture as a BLOCK and not an ITEM
 	- Once the ore has been made, create another texture. For this template, search for either GEM or INGOT
-	- ![[Pasted image 20220623163540.png]]
-	- ![[Pasted image 20220623163549.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163540.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163549.png]]
 	- They can change the color of these templates however they want
 	- When they save the gem/ingot, make sure they save the texture as an ITEM texture and not a BLOCK texture
 - The Ore
 	- Once the textures have been made, go back to the mod elements tab
 	- Create a new block for the ore and edit the properties how they want, mainly theyll want to look at the hardness and tool harvest level to drop. leave the custom drop empty
 	- in the generation tab, click this plus and choose surface (thats the overworld)
-	- ![[Pasted image 20220623163939.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163939.png]]
 	- Average amount of ores in a group can be changed, but as it says it should be less than 32
 	- Minimum and Maximum generation height can be changed as they want as well
 	- Everything else should be left as default

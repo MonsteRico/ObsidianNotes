@@ -7,11 +7,9 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
-            "mode": "source",
-            "source": false
+            "file": "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
+                "file": "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Codeninjas Camps/Minecraft Modding/Day 1.md",
+                "file": "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +131,7 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png",
     "Codeninjas Camps/Minecraft Modding/Day 1.md",
     "Apartments.md",
     "Rhetorical Analysis.md",
@@ -141,7 +140,6 @@
     "Codeninjas Camps/Minecraft Modding/Modding Pics/encahtn.png",
     "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621171713.png",
     "Codeninjas Camps/Minecraft Modding/Texture Making.md",
-    "Codeninjas Camps/Minecraft Modding/Block.md",
-    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md"
+    "Codeninjas Camps/Minecraft Modding/Block.md"
   ]
 }

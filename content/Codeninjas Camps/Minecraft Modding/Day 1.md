@@ -74,7 +74,7 @@ tags:
 - if the kids are going a bit slow or need more time then this can be skipped
 - [Minecraft Ores Quiz (sporcle.com)](https://www.sporcle.com/games/lmasta/minecraft-underground-ores)
 
-## Ore/Ingot - Rest of time - 15 mins (idk i cant do math)
+## Ore/Ingot - 60 mins
 - Textures
 	- Next we are going to make a custom ore that generates *in the world*
 	- First thing we need to do is create the textures

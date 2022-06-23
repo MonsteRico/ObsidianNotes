@@ -14,6 +14,7 @@ tags:
 - OPPORTUNITY FOR A PRIVATE HOT TUB FOR 1000+
 - pet friendly as long as its less than 30 lbs fully grown. milo cant be fat :)
 - waitlist up for 23/24
+- Hub reviews are awful and said Rise is 100% better
 # Campus Edge
 - [Campus Edge on Pierce](https://www.americancampus.com/student-apartments/in/west-lafayette/campus-edge-on-pierce)
 - a little set off from chauncey hill, so not AS bad in terms of loud part of campus probably

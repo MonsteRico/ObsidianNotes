@@ -68,9 +68,18 @@ tags:
 
 ## Break - 15 min
 
-- ore/smelting quiz 10-15
-- ore/ingot/generating it and recipes etc etc - 45
-- finding ore and free play at end 15 ish
+## Ore Quiz - 5-10 min
+- judge based on the kids in the camp whether this is needed
+- this can be used as an activity to take up some extra time or get the camp to come back together
+- if the kids are going a bit slow or need more time then this can be skipped
+- [Minecraft Ores Quiz (sporcle.com)](https://www.sporcle.com/games/lmasta/minecraft-underground-ores)
+
+## Ore/Ingot - Rest of time - 15 mins (idk i cant do math)
+- Next we are going to make a custom ore that generates *in the world*
+- First thing we need to do is create the textures
+- Go to the resources tab, create a new texture
+- This time we're going to use the template and find an ore template
+- 
 
 
 

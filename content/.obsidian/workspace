@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apartments.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartments.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apartments.md",
+                "file": "_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +133,7 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "_index.md",
     "Apartments.md",
     "Codeninjas Camps/Minecraft Modding/Day 1.md",
     "Codeninjas Camps/Minecraft Modding/Block.md",
@@ -141,7 +142,6 @@
     "Convergence and Divergence.md",
     "Codeninjas Camps/Minecraft Modding/Trigger 1.png",
     "Codeninjas Camps/Building Your own Robot in Minecraft.md",
-    "Codeninjas Camps/CodeNinjas Camps.md",
-    "_index.md"
+    "Codeninjas Camps/CodeNinjas Camps.md"
   ]
 }

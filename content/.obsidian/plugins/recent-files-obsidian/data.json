@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
       "basename": "Apartments",
       "path": "Apartments.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "CodeNinjas Camps",
       "path": "Codeninjas Camps/CodeNinjas Camps.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
     },
     {
       "basename": "Day 3 Mod Camp",

@@ -7,3 +7,4 @@ This is the homepage! Welcome to my notes but online. Here's links to all the pr
 - [[Codeninjas Camps/CodeNinjas Camps]]
 - [[Calculus 2 - MA 162]]
 - [[First Year Composition - ENGL 106]]
+- [[Apartments]]

@@ -63,10 +63,21 @@ Here's what I'm thinking.
 - Same exact prices for everything except premium bedroom is $834 and security deposit is $0 rn. has penthouse upgrade available too
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+- we still get all access to amenities just not through the building, we have to outside and around to the front entrance to get to them. not a big deal imo
+- on the ground floor obviously, so easier to move into but also close to the street, but also more separated from the rest of the tenants as we are not connected to the hallways or anything
+- there are only 10 townhomes. out of those 10, 4 of them are the 4x4.5 so we'd have to move quick to get one of those. and then if we want one in general we have to move quick too cuz they all sell out within a day. all of them will be available for leasing next school year. would everyone be able to get information in quick enough is the question
 - ![[Pasted image 20220625164722.png]]
 - 1388 sq ft
 - Pricing:
 	- same parking pricing and application/security deposits as above ones
+	- $804/month for standard bedrooms, $824/month for deluxe bedrooms
+	- slightly worse living/kitchen layout compared to the other option imo
+- ![[Pasted image 20220625165023.png]]
+- 1438 sq ft
+- Pricing:
+	- same parking pricing and application/security deposits as above ones
+	- $884/month for standard, $904/month for deluxe
+	- i like this layout better imo
 ## 4x4(.5) Townhome Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. easier to bring milo to a townhome that doesnt allow pets
 - Same exact options and pricing as above the only difference is we will end up with a fourth roommate somehow

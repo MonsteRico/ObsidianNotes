@@ -10,7 +10,7 @@ Here's what I'm thinking.
 # Options
 - In terms of amenities all of these options have the same amenities with similar quality. Campus Edge has added in building heated bike storage but thats really the only difference
 - Hub does not include cable and charges for water/sewage for split between building, electric for just unit
-- Camp
+- Campus Edge 
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
 - ![[Pasted image 20220625160606.png]]
@@ -41,6 +41,7 @@ Here's what I'm thinking.
 	- Standard Bedroom (1 of us) $1034
 	- Deluxe Bedroom $1054
 	- Extra $50 to each persons for a terrace
+		- private terrace, side by side fridge, 50" tv instead of normal one, sound bar, tile backsplash, nest thermostat
 	- Application fee $150 (non-refundable)
 	- Security Deposit $200 (refundable
 	- $80/month for Noahs parking in building. $40 for parking in chauncey square
@@ -48,16 +49,28 @@ Here's what I'm thinking.
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
 - ![[Pasted image 20220625162930.png]]
 - This one doesn't have the TV mounted near the kitchen which i like better
+- 1287 sq ft total
 - Pricing for above:
 	- $764 for the standard bedrooms
 	- $784 for the deluxe bedrooms
 	- extra $50 a month each for a Penthouse version with
-		- restricted access on top floor, nest thermostat, tile backsplash, sound bar speaker
+		- restricted access on top floor, nest thermostat, tile backsplash, sound bar speaker, 60" tv, sidebyside fridge with water/ice dispenser, modern kitchen?, walk in closets
 	- Application fee of $150 and $200 for security
+	- $80/month for  parking in building. $40 for parking in chauncey square
+- ![[Pasted image 20220625164142.png]]
+- This one has the weird living room/tv layout but gives matthew a premium bedroom! the real draw here is security deposit is waived for this one (right now at least)
+- 1307 sq ft (its in the premium bedroom though)
+- Same exact prices for everything except premium bedroom is $834 and security deposit is $0 rn. has penthouse upgrade available too
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+- ![[Pasted image 20220625164722.png]]
+- 1388 sq ft
+- Pricing:
+	- same parking pricing and application/security deposits as above ones
 ## 4x4(.5) Townhome Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. easier to bring milo to a townhome that doesnt allow pets
+- Same exact options and pricing as above the only difference is we will end up with a fourth roommate somehow
+- Basically either Nick could apply and then not sign a lease, could apply and sign a lease and then later break it or relet it (meaning we find someone during the year to take it over), or he just doesn't go there with us and someone random gets matched with us. should he sign the lease and break it i believe they will just fill the spot unless he relets it himself. doing that takes all the financial burden off of him other than the breaking of the lease, the new person becomes responsible for everything
 
 
 # Hub

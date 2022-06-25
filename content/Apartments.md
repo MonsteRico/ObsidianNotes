@@ -9,6 +9,8 @@ Here's what I'm thinking.
 
 # Options
 - In terms of amenities all of these options have the same amenities with similar quality. Campus Edge has added in building heated bike storage but thats really the only difference
+- Hub does not include cable and charges for water/sewage for split between building, electric for just unit
+- Camp
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
 - ![[Pasted image 20220625160606.png]]
@@ -44,6 +46,14 @@ Here's what I'm thinking.
 	- $80/month for Noahs parking in building. $40 for parking in chauncey square
 ## 4x4 Apt Campus Ege - Nick with us
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
+- ![[Pasted image 20220625162930.png]]
+- This one doesn't have the TV mounted near the kitchen which i like better
+- Pricing for above:
+	- $764 for the standard bedrooms
+	- $784 for the deluxe bedrooms
+	- extra $50 a month each for a Penthouse version with
+		- restricted access on top floor, nest thermostat, tile backsplash, sound bar speaker
+	- Application fee of $150 and $200 for security
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
 ## 4x4(.5) Townhome Campus Edge - Nick/Kylee do whatever

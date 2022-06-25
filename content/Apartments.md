@@ -30,7 +30,7 @@ Here's what I'm thinking.
 - All prices subject to change but probably not by a lot
 - parking around $100/month for noah
 ## 4x4 Apt Hub - Nick with us
-- Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+- Kylee could live in Hub to be close since its pet friendly or whererever she wants
 - Lots of floorplans available so heres all the floorplans we could choose from, click and you can see the upgrades [Purdue Off Campus Housing Floor Plans (huboncampus.com)](https://huboncampus.com/west-lafayette-state-street/floor-plans/)
 - all the prices are $1000 plus really, but the upgrades are kinda nice if we were to do them and the biggest one would be REALLY nice
 - id only really consider this option if nick is gonna join us with it and it is very expensive compared any of the other options
@@ -53,7 +53,6 @@ Here's what I'm thinking.
 	- $80/month for Noahs parking in building. 
 	- $40 for parking in chauncey square
 ## 4x4 Apt Campus Ege - Nick with us
-- Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
 - ![[Apartment Floorplans/Pasted image 20220625162930.png]]
 - This one doesn't have the TV mounted near the kitchen which i like better
 - 1287 sq ft total
@@ -72,7 +71,6 @@ Here's what I'm thinking.
 - Same exact prices for everything except premium bedroom is $834 
 - and security deposit is $0 rn. has penthouse upgrade available too
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
-- Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
 - we still get all access to amenities just not through the building, we have to outside and around to the front entrance to get to them. not a big deal imo
 - on the ground floor obviously, so easier to move into but also close to the street, but also more separated from the rest of the tenants as we are not connected to the hallways or anything
 - there are only 10 townhomes. out of those 10, 4 of them are the 4x4.5 so we'd have to move quick to get one of those. and then if we want one in general we have to move quick too cuz they all sell out within a day. all of them will be available for leasing next school year. would everyone be able to get information in quick enough is the question

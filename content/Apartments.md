@@ -14,7 +14,7 @@ Here's what I'm thinking.
 - our current apt is 1259-1441 sq ft for reference
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
-- ![[Pasted image 20220625160606.png]]
+- ![[Apartment Floorplans/Pasted image 20220625160606.png]]
 - One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
 - 1014 sq ft
 - Balcony is nice ig
@@ -24,7 +24,7 @@ Here's what I'm thinking.
 	- $1135 for VIP w/ balcony
 		- smart thermostat, 65" smart tv, in unit sound system, glass door showers and fancier showerhead, fridge w/ water and ice dispenser, tile backsplash, closet organizers, and light dimmers
 	- $1045 for one with no balcony and NO bathrooms in rooms all across hall (below)
-	- <img src="https://huboncampus.com/west-lafayette-state-street/wp-content/uploads/2020/11/0005_Sapphire3.png" width="400" />
+	- ![[Apartment Floorplans/Pasted image 20220625172606.png]]
 	- this one is 903 sq ft
 - Security deposit of $200 and application fee of $50
 - All prices subject to change but probably not by a lot
@@ -39,7 +39,7 @@ Here's what I'm thinking.
 - Parking was around $100/month per person i think so not cheap
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
-- ![[Pasted image 20220625161857.png]]
+- ![[Apartment Floorplans/Pasted image 20220625161857.png]]
 - 998 sq ft
 - Two Bathrooms in rooms and the two deluxe rooms are bigger
 - The tv is mounted next to the kitchen so sitting on the couch you end up looking kinda at the kitchen which is kinda weird imo but whatever
@@ -53,7 +53,7 @@ Here's what I'm thinking.
 	- $80/month for Noahs parking in building. $40 for parking in chauncey square
 ## 4x4 Apt Campus Ege - Nick with us
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
-- ![[Pasted image 20220625162930.png]]
+- ![[Apartment Floorplans/Pasted image 20220625162930.png]]
 - This one doesn't have the TV mounted near the kitchen which i like better
 - 1287 sq ft total
 - Pricing for above:
@@ -63,7 +63,7 @@ Here's what I'm thinking.
 		- restricted access on top floor, nest thermostat, tile backsplash, sound bar speaker, 60" tv, sidebyside fridge with water/ice dispenser, modern kitchen?, walk in closets
 	- Application fee of $150 and $200 for security
 	- $80/month for  parking in building. $40 for parking in chauncey square
-- ![[Pasted image 20220625164142.png]]
+- ![[Apartment Floorplans/Pasted image 20220625164142.png]]
 - This one has the weird living room/tv layout but gives matthew a premium bedroom! the real draw here is security deposit is waived for this one (right now at least)
 - 1307 sq ft (its in the premium bedroom though)
 - Same exact prices for everything except premium bedroom is $834 and security deposit is $0 rn. has penthouse upgrade available too
@@ -72,13 +72,13 @@ Here's what I'm thinking.
 - we still get all access to amenities just not through the building, we have to outside and around to the front entrance to get to them. not a big deal imo
 - on the ground floor obviously, so easier to move into but also close to the street, but also more separated from the rest of the tenants as we are not connected to the hallways or anything
 - there are only 10 townhomes. out of those 10, 4 of them are the 4x4.5 so we'd have to move quick to get one of those. and then if we want one in general we have to move quick too cuz they all sell out within a day. all of them will be available for leasing next school year. would everyone be able to get information in quick enough is the question
-- ![[Pasted image 20220625164722.png]]
+- ![[Apartment Floorplans/Pasted image 20220625164722.png]]
 - 1388 sq ft
 - Pricing:
 	- same parking pricing and application/security deposits as above ones
 	- $804/month for standard bedrooms, $824/month for deluxe bedrooms
 	- slightly worse living/kitchen layout compared to the other option imo
-- ![[Pasted image 20220625165023.png]]
+- ![[Apartment Floorplans/Pasted image 20220625165023.png]]
 - 1438 sq ft
 - Pricing:
 	- same parking pricing and application/security deposits as above ones

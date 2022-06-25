@@ -7,11 +7,9 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Apartments.md",
-            "mode": "source",
-            "source": false
+            "file": "Apartment Floorplans/Pasted image 20220625160606.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartments.md",
+                "file": "Apartment Floorplans/Pasted image 20220625160606.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apartments.md",
+                "file": "Apartment Floorplans/Pasted image 20220625160606.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,11 +131,11 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "Apartment Floorplans/Pasted image 20220625160606.png",
     "Apartments.md",
     "Hub Floorplans.md",
     "Pasted image 20220625161224.png",
     "Pasted image 20220625161107.png",
-    "Pasted image 20220625160606.png",
     "_index.md",
     "Codeninjas Camps/Minecraft Modding/Day 1.md",
     "Codeninjas Camps/Minecraft Modding/Block.md",

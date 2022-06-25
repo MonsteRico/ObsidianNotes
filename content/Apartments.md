@@ -18,25 +18,25 @@ Here's what I'm thinking.
 - One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
 - 1014 sq ft
 - Balcony is nice ig
-- Pricing: $1075 for the above alone (balcony and one room with bathroom in it)
-	- $1105 for one with balcony on the 10th floor which has private access (only people on that floor can go to it)
+- Pricing: $\$$1075 for the above alone (balcony and one room with bathroom in it)
+	- $\$$1105 for one with balcony on the 10th floor which has private access (only people on that floor can go to it)
 		- 65" smart tv, glass door showers and fancier showerhead, tile backsplash in kitchen, closet organizer, and light dimmers all included as well
-	- $1135 for VIP w/ balcony
+	- $\$$1135 for VIP w/ balcony
 		- smart thermostat, 65" smart tv, in unit sound system, glass door showers and fancier showerhead, fridge w/ water and ice dispenser, tile backsplash, closet organizers, and light dimmers
-	- $1045 for one with no balcony and NO bathrooms in rooms all across hall (below)
+	- $\$$1045 for one with no balcony and NO bathrooms in rooms all across hall (below)
 	- ![[Apartment Floorplans/Pasted image 20220625172606.png]]
 	- this one is 903 sq ft
-- Security deposit of $200 and application fee of $50
+- Security deposit of $\$$200 and application fee of $\$$50
 - All prices subject to change but probably not by a lot
-- parking around $100/month for noah
+- parking around $\$$100/month for noah
 ## 4x4 Apt Hub - Nick with us
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
 - Lots of floorplans available so heres all the floorplans we could choose from, click and you can see the upgrades [Purdue Off Campus Housing Floor Plans (huboncampus.com)](https://huboncampus.com/west-lafayette-state-street/floor-plans/)
-- all the prices are $1000 plus really, but the upgrades are kinda nice if we were to do them and the biggest one would be REALLY nice
+- all the prices are $\$$1000 plus really, but the upgrades are kinda nice if we were to do them and the biggest one would be REALLY nice
 - id only really consider this option if nick is gonna join us with it and it is very expensive compared any of the other options
 - 1-2 of 4 bathrooms are in rooms usually
 - More money paid = bigger apartments obviously, these all seem like they'd be pretty nice. However, also have to deal with an apartment building and the parties and all of that. but they all seem like they'd actually be good
-- Parking was around $100/month per person i think so not cheap
+- Parking was around $\$$100/month per person i think so not cheap
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
 - ![[Apartment Floorplans/Pasted image 20220625161857.png]]
@@ -44,29 +44,29 @@ Here's what I'm thinking.
 - Two Bathrooms in rooms and the two deluxe rooms are bigger
 - The tv is mounted next to the kitchen so sitting on the couch you end up looking kinda at the kitchen which is kinda weird imo but whatever
 - Pricing:
-	- Standard Bedroom (1 of us) $1034
-	- Deluxe Bedroom $1054
-	- Extra $50 to each persons for a terrace
+	- Standard Bedroom (1 of us) $\$$1034
+	- Deluxe Bedroom $\$$1054
+	- Extra $\$$50 to each persons for a terrace
 		- private terrace, side by side fridge, 50" tv instead of normal one, sound bar, tile backsplash, nest thermostat
-	- Application fee $150 (non-refundable)
-	- Security Deposit $200 (refundable
-	- $80/month for Noahs parking in building. $40 for parking in chauncey square
+	- Application fee $\$$150 (non-refundable)
+	- Security Deposit $\$$200 (refundable
+	- $\$$80/month for Noahs parking in building. $\$$40 for parking in chauncey square
 ## 4x4 Apt Campus Ege - Nick with us
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
 - ![[Apartment Floorplans/Pasted image 20220625162930.png]]
 - This one doesn't have the TV mounted near the kitchen which i like better
 - 1287 sq ft total
 - Pricing for above:
-	- $764 for the standard bedrooms
-	- $784 for the deluxe bedrooms
-	- extra $50 a month each for a Penthouse version with
+	- $\$$764 for the standard bedrooms
+	- $\$$784 for the deluxe bedrooms
+	- extra $\$$50 a month each for a Penthouse version with
 		- restricted access on top floor, nest thermostat, tile backsplash, sound bar speaker, 60" tv, sidebyside fridge with water/ice dispenser, modern kitchen?, walk in closets
-	- Application fee of $150 and $200 for security
-	- $80/month for  parking in building. $40 for parking in chauncey square
+	- Application fee of $\$$150 and $\$$200 for security
+	- $\$$80/month for  parking in building. $\$$40 for parking in chauncey square
 - ![[Apartment Floorplans/Pasted image 20220625164142.png]]
 - This one has the weird living room/tv layout but gives matthew a premium bedroom! the real draw here is security deposit is waived for this one (right now at least)
 - 1307 sq ft (its in the premium bedroom though)
-- Same exact prices for everything except premium bedroom is $834 and security deposit is $0 rn. has penthouse upgrade available too
+- Same exact prices for everything except premium bedroom is $\$$834 and security deposit is $\$$0 rn. has penthouse upgrade available too
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
 - we still get all access to amenities just not through the building, we have to outside and around to the front entrance to get to them. not a big deal imo
@@ -76,13 +76,13 @@ Here's what I'm thinking.
 - 1388 sq ft
 - Pricing:
 	- same parking pricing and application/security deposits as above ones
-	- $804/month for standard bedrooms, $824/month for deluxe bedrooms
+	- $\$$804/month for standard bedrooms, $\$$824/month for deluxe bedrooms
 	- slightly worse living/kitchen layout compared to the other option imo
 - ![[Apartment Floorplans/Pasted image 20220625165023.png]]
 - 1438 sq ft
 - Pricing:
 	- same parking pricing and application/security deposits as above ones
-	- $884/month for standard, $904/month for deluxe
+	- $\$$884/month for standard, $\$$904/month for deluxe
 	- i like this layout better imo
 ## 4x4(.5) Townhome Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. easier to bring milo to a townhome that doesnt allow pets

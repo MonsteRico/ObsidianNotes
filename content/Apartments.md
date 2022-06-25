@@ -10,7 +10,7 @@ Here's what I'm thinking.
 # Options
 - In terms of amenities all of these options have the same amenities with similar quality. Campus Edge has added in building heated bike storage but thats really the only difference
 - Hub does not include cable and charges for water/sewage for split between building, electric for just unit
-- Campus Edge 
+- Campus Edge i dont remember, but they do have cable and i dont think they make you pay water/sewage, its just electric
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
 - ![[Pasted image 20220625160606.png]]
@@ -28,9 +28,11 @@ Here's what I'm thinking.
 - parking around $100/month for noah
 ## 4x4 Apt Hub - Nick with us
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
-- Lots of floorplans available so gonna put on another note with prices [[Hub Floorplans]]
+- Lots of floorplans available so heres all the floorplans we could choose from, click and you can see the upgrades [Purdue Off Campus Housing Floor Plans (huboncampus.com)](https://huboncampus.com/west-lafayette-state-street/floor-plans/)
+- all the prices are $1000 plus really, but the upgrades are kinda nice if we were to do them and the biggest one would be REALLY nice
+- id only really consider this option if nick is gonna join us with it and it is very expensive compared any of the other options
 - 1-2 of 4 bathrooms are in rooms usually
-- More money paid = bigger rooms obviously, these all seem like they'd be pretty nice. However, also have to deal with an apartment building and the parties and all of that. but they all seem like they'd actually be good
+- More money paid = bigger apartments obviously, these all seem like they'd be pretty nice. However, also have to deal with an apartment building and the parties and all of that. but they all seem like they'd actually be good
 - Parking was around $100/month per person i think so not cheap
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
@@ -82,7 +84,10 @@ Here's what I'm thinking.
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. easier to bring milo to a townhome that doesnt allow pets
 - Same exact options and pricing as above the only difference is we will end up with a fourth roommate somehow
 - Basically either Nick could apply and then not sign a lease, could apply and sign a lease and then later break it or relet it (meaning we find someone during the year to take it over), or he just doesn't go there with us and someone random gets matched with us. should he sign the lease and break it i believe they will just fill the spot unless he relets it himself. doing that takes all the financial burden off of him other than the breaking of the lease, the new person becomes responsible for everything
-
+## 3x3 Fuse, 4x4 Fuse
+- idk anything other than its supposed to be pretty nice and its by mackey and no pool
+## Other apartments off campus
+- would be MUCH cheaper, but we'd have to deal with possibly older apartments, possibly less bathrooms, possibly unfurnished, and DEFINITELY much harder to walk to campus and g
 
 # Hub
 - [Hub](https://huboncampus.com/west-lafayette-state-street/)

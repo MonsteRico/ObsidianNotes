@@ -14,11 +14,22 @@ Here's what I'm thinking.
 - One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
 - Balcony is nice ig
 - Pricing: $1075 for the above alone (balcony and one room with bathroom in it)
-	- $1045 for one with no bacvl
-## 4x4 Apt Hub - Nick with us still Kylee does something
+	- $1105 for one with balcony on the 10th floor which has private access (only people on that floor can go to it)
+		- 65" smart tv, glass door showers and fancier showerhead, tile backsplash in kitchen, closet organizer, and light dimmers all included as well
+	- $1135 for VIP w/ balcony
+		- smart thermostat, 65" smart tv, in unit sound system, glass door showers and fancier showerhead, fridge w/ water and ice dispenser, tile backsplash, closet organizers, and light dimmers
+	- $1045 for one with no balcony and NO bathrooms in rooms all across hall (below)
+	- <img src="https://huboncampus.com/west-lafayette-state-street/wp-content/uploads/2020/11/0005_Sapphire3.png" width="400" />
+- Security deposit of $200 and application fee of $50
+- All prices subject to change but probably not by a lot
+## 4x4 Apt Hub - Nick with us
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+- Lots of floorplans available so gonna put on another note with prices [[Hub Floorplans]]
+- 1-2 of 4 bathrooms are in rooms usually
+- More money paid = bigger rooms obviously, these all seem like they'd be pretty nice. However, also have to deal with an apartment building and the parties and all of that. but they all seem like they'd actually be good
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
+- 
 ## 4x4 Apt Campus Ege - Nick with us
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 

@@ -11,10 +11,12 @@ Here's what I'm thinking.
 - In terms of amenities all of these options have the same amenities with similar quality. Campus Edge has added in building heated bike storage but thats really the only difference
 - Hub does not include cable and charges for water/sewage for split between building, electric for just unit
 - Campus Edge i dont remember, but they do have cable and i dont think they make you pay water/sewage, its just electric
+- our current apt is 1259-1441 sq ft for reference
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
 - ![[Pasted image 20220625160606.png]]
 - One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
+- 1014 sq ft
 - Balcony is nice ig
 - Pricing: $1075 for the above alone (balcony and one room with bathroom in it)
 	- $1105 for one with balcony on the 10th floor which has private access (only people on that floor can go to it)
@@ -23,6 +25,7 @@ Here's what I'm thinking.
 		- smart thermostat, 65" smart tv, in unit sound system, glass door showers and fancier showerhead, fridge w/ water and ice dispenser, tile backsplash, closet organizers, and light dimmers
 	- $1045 for one with no balcony and NO bathrooms in rooms all across hall (below)
 	- <img src="https://huboncampus.com/west-lafayette-state-street/wp-content/uploads/2020/11/0005_Sapphire3.png" width="400" />
+	- this one is 903 sq ft
 - Security deposit of $200 and application fee of $50
 - All prices subject to change but probably not by a lot
 - parking around $100/month for noah
@@ -37,6 +40,7 @@ Here's what I'm thinking.
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
 - ![[Pasted image 20220625161857.png]]
+- 998 sq ft
 - Two Bathrooms in rooms and the two deluxe rooms are bigger
 - The tv is mounted next to the kitchen so sitting on the couch you end up looking kinda at the kitchen which is kinda weird imo but whatever
 - Pricing:

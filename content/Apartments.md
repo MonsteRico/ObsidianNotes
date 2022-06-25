@@ -12,8 +12,9 @@ Here's what I'm thinking.
 - Hub does not include cable and charges for water/sewage for split between building, electric for just unit
 - Campus Edge i dont remember, but they do have cable and i dont think they make you pay water/sewage, its just electric
 - our current apt is 1259-1441 sq ft for reference
+- no matter where we go move in is almost always a week before school starts, we cant move in until aug 13-17 ish usually. sucks but we'll live
 ## 3x3  Apt Hub - Nick/Kylee do whatever
-- If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
+- If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly
 - ![[Apartment Floorplans/Pasted image 20220625160606.png]]
 - One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
 - 1014 sq ft
@@ -30,7 +31,6 @@ Here's what I'm thinking.
 - All prices subject to change but probably not by a lot
 - parking around $100/month for noah
 ## 4x4 Apt Hub - Nick with us
-- Kylee could live in Hub to be close since its pet friendly or whererever she wants
 - Lots of floorplans available so heres all the floorplans we could choose from, click and you can see the upgrades [Purdue Off Campus Housing Floor Plans (huboncampus.com)](https://huboncampus.com/west-lafayette-state-street/floor-plans/)
 - all the prices are $1000 plus really, but the upgrades are kinda nice if we were to do them and the biggest one would be REALLY nice
 - id only really consider this option if nick is gonna join us with it and it is very expensive compared any of the other options
@@ -70,7 +70,7 @@ Here's what I'm thinking.
 - 1307 sq ft (its in the premium bedroom though)
 - Same exact prices for everything except premium bedroom is $834 
 - and security deposit is $0 rn. has penthouse upgrade available too
-## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
+## 4x4(.5) Townhome Campus Edge - Nick with us still
 - we still get all access to amenities just not through the building, we have to outside and around to the front entrance to get to them. not a big deal imo
 - on the ground floor obviously, so easier to move into but also close to the street, but also more separated from the rest of the tenants as we are not connected to the hallways or anything
 - there are only 10 townhomes. out of those 10, 4 of them are the 4x4.5 so we'd have to move quick to get one of those. and then if we want one in general we have to move quick too cuz they all sell out within a day. all of them will be available for leasing next school year. would everyone be able to get information in quick enough is the question

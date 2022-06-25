@@ -4,6 +4,29 @@ title: "Apartments"
 tags:
 ---
 # Matthews wonderful apartment notes
+
+Here's what I'm thinking.
+
+# Options
+## 3x3  Apt Hub - Nick/Kylee do whatever
+- If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
+- ![[Pasted image 20220625160606.png]]
+- One bathroom in room sadly, everything else looks like itd be fine. Rooms are small though
+- Balcony is nice ig
+- Pricing: $1075 for the above alone (balcony and one room with bathroom in it)
+	- $1045 for one with no bacvl
+## 4x4 Apt Hub - Nick with us still Kylee does something
+- Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+## 3x3 Apt Campus Edge - Nick/Kylee do whatever
+- If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
+## 4x4 Apt Campus Ege - Nick with us
+- Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
+## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 
+- Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
+## 4x4(.5) Townhome Campus Edge - Nick/Kylee do whatever
+- If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. easier to bring milo to a townhome that doesnt allow pets
+
+
 # Hub
 - [Hub](https://huboncampus.com/west-lafayette-state-street/)
 - loud part of campus, seemed very party central first time i looked
@@ -27,26 +50,11 @@ tags:
 - not pet friendly apparently? even though i thought they were?
 - registration for 23/24 opens in September
 - ive seen both good and bad reviews
-# Rise
-- [RISE on Chauncey](https://www.riseonchauncey.com/)
-- on chauncey hill, louder part of campus
-- supposedly has eleveator problems in a 10 floor building
-- and some problems with management
-- rooftop pool though
-- not pet friendly
-- reviews are consistently pretty poor
-# Provenance
-- [Provenance Apartments](https://www.provenanceapartments.com/)
-- in the quiet part of campus (near aspire)
-- has 3 room apartments and 2 room and 1 room
-- cant get apartments until 60 days before it becomes available, so hard to guarantee we're set
-- amenities are lacking compared to others, still nice though
-- no furniture included
-- pet friendly
+
 # Fuse
 - [FUSE](https://www.liveatfuse.com/)
 - expensive but nice supposedly
 - no pool, but generally nice amenities it seems
 - not pet friendly
-- bathrooms not in rooms ever
-- reviews consistently good, just say its expensive
+- bathrooms not in rooms ever as far as i can tell
+- i couldnt tour it, dont know anything else other than people say its not that bad

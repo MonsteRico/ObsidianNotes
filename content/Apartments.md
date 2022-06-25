@@ -8,6 +8,7 @@ tags:
 Here's what I'm thinking.
 
 # Options
+- In terms of amenities all of these options have the same amenities with similar quality. Campus Edge has added in building heated bike storage but thats really the only difference
 ## 3x3  Apt Hub - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub as well they'd be in same building with same amenities AND its pet friendly so they could
 - ![[Pasted image 20220625160606.png]]
@@ -22,14 +23,25 @@ Here's what I'm thinking.
 	- <img src="https://huboncampus.com/west-lafayette-state-street/wp-content/uploads/2020/11/0005_Sapphire3.png" width="400" />
 - Security deposit of $200 and application fee of $50
 - All prices subject to change but probably not by a lot
+- parking around $100/month for noah
 ## 4x4 Apt Hub - Nick with us
 - Kylee could live in Hub to be close since its pet friendly or whererever she wants, sorry doesn't impact me I'll help her look later
 - Lots of floorplans available so gonna put on another note with prices [[Hub Floorplans]]
 - 1-2 of 4 bathrooms are in rooms usually
 - More money paid = bigger rooms obviously, these all seem like they'd be pretty nice. However, also have to deal with an apartment building and the parties and all of that. but they all seem like they'd actually be good
+- Parking was around $100/month per person i think so not cheap
 ## 3x3 Apt Campus Edge - Nick/Kylee do whatever
 - If Nick/Kylee wanted to live in Hub theyd be close but diff buildings and amenities and stuff. hard to bring milo to an apartment that doesnt allow pets too
-- 
+- ![[Pasted image 20220625161857.png]]
+- Two Bathrooms in rooms and the two deluxe rooms are bigger
+- The tv is mounted next to the kitchen so sitting on the couch you end up looking kinda at the kitchen which is kinda weird imo but whatever
+- Pricing:
+	- Standard Bedroom (1 of us) $1034
+	- Deluxe Bedroom $1054
+	- Extra $50 to each persons for a terrace
+	- Application fee $150 (non-refundable)
+	- Security Deposit $200 (refundable
+	- $80/month for Noahs parking in building. $40 for parking in chauncey square
 ## 4x4 Apt Campus Ege - Nick with us
 - Kylee would have to figure something out, hub is closeby same as at hub though not my concern rn unfortunately
 ## 4x4(.5) Townhome Campus Edge - Nick with us still Kylee does something 

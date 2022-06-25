@@ -87,7 +87,7 @@ Here's what I'm thinking.
 ## 3x3 Fuse, 4x4 Fuse
 - idk anything other than its supposed to be pretty nice and its by mackey and no pool
 ## Other apartments off campus
-- would be MUCH cheaper, but we'd have to deal with possibly older apartments, possibly less bathrooms, possibly unfurnished, and DEFINITELY much harder to walk to campus and g
+- would be MUCH cheaper, but we'd have to deal with possibly older apartments, possibly less bathrooms, possibly unfurnished, and DEFINITELY much harder to walk to campus and get to campus even with bike. most likely have to bus or drive and alejandro and i dont have a car. i also really like being able to go back to my room. worth looking into though as a possibility
 
 # Hub
 - [Hub](https://huboncampus.com/west-lafayette-state-street/)
@@ -95,28 +95,23 @@ Here's what I'm thinking.
 - had sticky notes saying "Don't live here"
 - most bathrooms not in rooms
 - more expensive
-- decent amenities, not exactly same as edge though
+- nice amenities
 - OPPORTUNITY FOR A PRIVATE HOT TUB FOR 1000+ not that worth it but still
-- pet friendly as long as its less than 30 lbs fully grown. milo cant be fat :)
-- waitlist up for 23/24
-- ive seen both good and bad reviews
+- pet friendly as long as its less than 30 lbs fully grown
 # Campus Edge
 - [Campus Edge on Pierce](https://www.americancampus.com/student-apartments/in/west-lafayette/campus-edge-on-pierce)
 - a little set off from chauncey hill, so not AS bad in terms of loud part of campus probably
-- doesn't allow more people on lease than rooms in an apartment
-- really nice amenities
-- living room layout kinda sucks everywhere but the 4x4.5 townhome
-- the townhomes require us to have a 4th person
+- nice amenities
+- living room layout kinda sucks everywhere but the 4x4.5 townhome and one of the 4x4 apartments
+- the townhomes require us to have/find a 4th person
 - most bathrooms not in rooms, some are
 - has "deluxe" rooms where those people end up having to pay a little more rent
-- not pet friendly apparently? even though i thought they were?
-- registration for 23/24 opens in September
-- ive seen both good and bad reviews
-
+- not pet friendly
 # Fuse
 - [FUSE](https://www.liveatfuse.com/)
 - expensive but nice supposedly
 - no pool, but generally nice amenities it seems
 - not pet friendly
 - bathrooms not in rooms ever as far as i can tell
-- i couldnt tour it, dont know anything else other than people say its not that bad
+- i couldnt tour it, dont know anything else other than people say its generally pretty good like aspire
+- seems like aspire but more expensive to me honestly

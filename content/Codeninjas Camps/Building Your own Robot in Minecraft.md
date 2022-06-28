@@ -35,5 +35,5 @@ tags:
 	- Intermediate Variables - 30
 - Break - 10-15
 - Expert Variables but here's the final code b/c the one they  have is broken - 30-45
-	- ![[Pasted image 20220628112510.png]]
+	- ![[Codeninjas Camps/Pasted image 20220628112510.png]]
 - Do the Application in Variables, have them try and make the agent place some of the blocks! - rest of time, add free time at end if really necessary but should be good

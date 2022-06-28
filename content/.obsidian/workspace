@@ -7,11 +7,9 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
-            "mode": "source",
-            "source": false
+            "file": "Codeninjas Camps/Pasted image 20220628112510.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
+                "file": "Codeninjas Camps/Pasted image 20220628112510.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
+                "file": "Codeninjas Camps/Pasted image 20220628112510.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +131,7 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
+    "Codeninjas Camps/Pasted image 20220628112510.png",
     "Codeninjas Camps/Building Your own Robot in Minecraft.md",
     "Codeninjas Camps/Minecraft Modding/Day 1.md",
     "Codeninjas Camps/CodeNinjas Camps.md",
@@ -141,7 +140,6 @@
     "Apartments.md",
     "Rhetorical Analysis.md",
     "Codeninjas Camps/Minecraft Modding/Modding Pics/Trigger 1.png",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/Outer Layer.png",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/encahtn.png"
+    "Codeninjas Camps/Minecraft Modding/Modding Pics/Outer Layer.png"
   ]
 }

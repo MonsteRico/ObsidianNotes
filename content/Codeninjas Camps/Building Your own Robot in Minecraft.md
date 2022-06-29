@@ -6,11 +6,8 @@ tags:
 # Building Your Own Robot in Minecraft
 
 - Overall the slides for this camp are actually really good, just follow them. The only thing I have to add personally is the beginning "Novice" part where it says you should do it on the screen and have them watch, yeah don't just have them watch actually have them do it with you. Or watch it and then do it. They shouldn't just watch that part and then do Intermediate, they should do it themselves too IMO.
-<br>
-- Another thing is the last thing in the camp involves letting them kind of just work on the other coding difficulties/languages within the current lesson. This is fine as long as it's not with an hour left, maybe even 30 minutes. If you give them too much time to mess around in this they will take it and play Minecraft. My recommendation is potentially do a Build Battle, Redstone Tutorial, the Minecraft Bingo etc. to eat up a little of that time and get them doing something interactive but still fun. <br>
-- I also really like the Minecraft Bingo and think it should be an every day thing, but judge the camps reaction to it.<br>
-- Minecraft Education Edition DOES allow multiplayer and it DOES work. One person has to host and then the others join through the join code. It's pretty simple. It does work as long as everyone's using the CodeNinjas accounts, including the Sensei whos hosting if they are. 
-<br>
+- Another thing is the last thing in the camp involves letting them kind of just work on the other coding difficulties/languages within the current lesson. This is fine as long as it's not with an hour left, maybe even 30 minutes. If you give them too much time to mess around in this they will take it and play Minecraft. My recommendation is potentially do a Build Battle, Redstone Tutorial, the Minecraft Bingo etc. to eat up a little of that time and get them doing something interactive but still fun. The activities at the beginning of each PowerPoint are good as well for 10-15 mins plus 10-15 mins of freetime at the start while everyone arrives.
+- Minecraft Education Edition DOES allow multiplayer and it SOMETIMES works, don't know why. One person has to host and then the others join through the join code. It's pretty simple. It does work as long as everyone's using the CodeNinjas accounts, including the Sensei whos hosting if they are. 
 - Will add more notes as they are thought of during the first running of this camp.
 
 # Day 1
@@ -37,3 +34,23 @@ tags:
 - Expert Variables but here's the final code b/c the one they  have is broken - 30-45
 	- ![[Codeninjas Camps/Pasted image 20220628112510.png]]
 - Do the Application in Variables, have them try and make the agent place some of the blocks! - rest of time, add free time at end if really necessary but should be good
+
+# Day 3
+- Freetime until everyone arrives - 10-15 mins
+- Build A Moat - 10-15 mins
+	- It's in art and design
+	- Encourage use of the agent, although chances are they won't use it
+	- Try and use the agent on screen to code a moat of some kind just to have them see coding in the background
+- Novice Loops (Talk about loops as well) - 30 mins
+- Intermediate Loops - 30 mins
+- Break - 15 mins
+- Constructive Activity - 
+	- Minecraft Bingo 
+	- Build Battle
+	- One of the other subject kit worlds
+	- Sporcle Quizzes
+	- Redstone tutorial (has to work in bedrock though)
+	- Something to kind of get away from the coding for a little bit, might be worth doing since this day is a little shorter
+- Expert Loops
+- Loops Application
+- Code a farm in your own survival/creative world or with others

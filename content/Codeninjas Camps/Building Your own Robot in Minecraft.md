@@ -44,13 +44,13 @@ tags:
 - Novice Loops (Talk about loops as well) - 30 mins
 - Intermediate Loops - 30 mins
 - Break - 15 mins
-- Constructive Activity - 
+- Constructive Activity - 10ish mins? Maybe shorter depending on the activity done.
 	- Minecraft Bingo 
 	- Build Battle
 	- One of the other subject kit worlds
-	- Sporcle Quizzes
+	- Sporcle Quizzes - [Ores Quiz](https://www.sporcle.com/games/lmasta/minecraft-underground-ores?t=minecraft), [Mobs Quiz](https://www.sporcle.com/games/Ihatekittens/minecraft-mobs?t=minecraft)
 	- Redstone tutorial (has to work in bedrock though)
 	- Something to kind of get away from the coding for a little bit, might be worth doing since this day is a little shorter
-- Expert Loops
-- Loops Application
-- Code a farm in your own survival/creative world or with others
+- Expert Loops - 30 mins
+- Loops Application - 30 mins
+- Code a farm in your own survival/creative world or with others - rest of time

@@ -7,9 +7,11 @@
         "id": "1f28c182b0af1282",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Codeninjas Camps/Pasted image 20220628112510.png"
+            "file": "Apartments.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 386
   },
   "right": {
     "id": "225b2339fcf11363",
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeninjas Camps/Pasted image 20220628112510.png",
+                "file": "Apartments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Codeninjas Camps/Pasted image 20220628112510.png",
+                "file": "Apartments.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,15 +133,15 @@
   },
   "active": "1f28c182b0af1282",
   "lastOpenFiles": [
-    "Codeninjas Camps/Pasted image 20220628112510.png",
-    "Codeninjas Camps/Building Your own Robot in Minecraft.md",
-    "Codeninjas Camps/Minecraft Modding/Day 1.md",
-    "Codeninjas Camps/CodeNinjas Camps.md",
-    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220623163306.png",
     "Apartments.md",
-    "Rhetorical Analysis.md",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/Trigger 1.png",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/Outer Layer.png"
+    "Apartment Floorplans/Pasted image 20220625160606.png",
+    "Hub Floorplans.md",
+    "Pasted image 20220625161224.png",
+    "Pasted image 20220625161107.png",
+    "_index.md",
+    "Codeninjas Camps/Minecraft Modding/Day 1.md",
+    "Codeninjas Camps/Minecraft Modding/Block.md",
+    "Codeninjas Camps/Minecraft Modding/Texture Making.md",
+    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md"
   ]
 }

@@ -48,9 +48,17 @@ tags:
 	- Minecraft Bingo 
 	- Build Battle
 	- One of the other subject kit worlds
-	- Sporcle Quizzes - [Ores Quiz](https://www.sporcle.com/games/lmasta/minecraft-underground-ores?t=minecraft), [Mobs Quiz](https://www.sporcle.com/games/Ihatekittens/minecraft-mobs?t=minecraft)
+	- Sporcle Quizzes - [Ores Quiz](https://www.sporcle.com/games/lmasta/minecraft-underground-ores?t=minecraft), [Mobs Quiz](https://www.sporcle.com/games/Ihatekittens/minecraft-mobs?t=minecraft) (we did this it worked pretty well)
 	- Redstone tutorial (has to work in bedrock though)
 	- Something to kind of get away from the coding for a little bit, might be worth doing since this day is a little shorter
 - Expert Loops - 30 mins
 - Loops Application - 30 mins
 - Code a farm in your own survival/creative world or with others - rest of time
+
+# Day 4
+- Freetime until everyone arrives - 10-15 mins
+- Design an animal - 15 mins
+- Novice Conditionals and talk about conditionals - 30 mins
+- Intermediate Conditionals - 30 mins
+- Break - 15 mins
+- 

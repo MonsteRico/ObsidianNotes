@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f28c182b0af1282",
+        "id": "d4bd92126af9b76d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apartments.md",
+            "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartments.md",
+                "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apartments.md",
+                "file": "Codeninjas Camps/Building Your own Robot in Minecraft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,17 +131,17 @@
     "width": 289,
     "collapsed": true
   },
-  "active": "1f28c182b0af1282",
+  "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
-    "Apartments.md",
-    "Apartment Floorplans/Pasted image 20220625160606.png",
-    "Hub Floorplans.md",
-    "Pasted image 20220625161224.png",
-    "Pasted image 20220625161107.png",
-    "_index.md",
+    "Codeninjas Camps/Building Your own Robot in Minecraft.md",
+    "Codeninjas Camps/CodeNinjas Camps.md",
+    "Codeninjas Camps/Minecraft Moviemaking.md",
+    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md",
+    "Codeninjas Camps/Minecraft Modding/Day 4.md",
     "Codeninjas Camps/Minecraft Modding/Day 1.md",
+    "Codeninjas Camps/Minecraft Modding/Day 3 Mod Camp.md",
     "Codeninjas Camps/Minecraft Modding/Block.md",
     "Codeninjas Camps/Minecraft Modding/Texture Making.md",
-    "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md"
+    "Apartments.md"
   ]
 }

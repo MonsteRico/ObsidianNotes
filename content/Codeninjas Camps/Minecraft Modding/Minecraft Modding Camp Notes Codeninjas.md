@@ -17,6 +17,7 @@ tags:
 - - e.g. if eveyrone wants to make their own advancements, we (I) can look into how to do it and we can throw it in on Thursday, which I think should basically be "Miscellaneous and things ninjas wanna try as a group"
 - I also need to make new instructions or find new instructions for installing forge 1.18.2 and their mod after they leave
 
+[[Codeninjas Camps/Minecraft Modding/Day 1]]
 
 ## Day 2 - Armor, Effects (if we didn't get them already) - Tree, Biome, Wood Stuff
 

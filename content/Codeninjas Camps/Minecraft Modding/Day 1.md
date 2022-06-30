@@ -4,7 +4,7 @@ title: "Day 1"
 tags:
   - CodeNinjas
 ---
-# Day 1 - Intro, Ore, Tools
+# Day 1 - Intro, First Block, and Ore
 - Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer. don't delay camp start by more than 15 minutes even if someone's late. **ever**. don't.
 ## Intro - 5 Min
 - Chris will go over general rules

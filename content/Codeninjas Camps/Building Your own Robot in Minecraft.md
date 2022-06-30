@@ -61,4 +61,6 @@ tags:
 - Novice Conditionals and talk about conditionals - 30 mins
 - Intermediate Conditionals - 30 mins
 - Break - 15 mins
-- 
+- - 15 mins
+- - 30 mins
+- - 30 mins

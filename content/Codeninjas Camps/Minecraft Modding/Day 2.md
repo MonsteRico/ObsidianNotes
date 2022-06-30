@@ -10,7 +10,7 @@ tags:
 ## Tools - 20 minutes
 - First thing to do is make tools of our ore from yesterday
 - Instead of having to make each individual tool, we can use MCreator to make all of the tools and recipes at once!
-- Click the Create Tool Pack button ![[Pasted image 20220630100721.png]]
+- Click the Create Tool Pack button ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220630100721.png]]
 	- Change the base item of the Tool Pack to the gem they made yesterday
 	- Add the word "Tools" to the name
 	- Change the color if they want to change the colors of the tools

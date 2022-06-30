@@ -18,3 +18,13 @@ tags:
 - Once it generates all the tools and recipes, they can go into each tool's item and change the in game name and any other properties
 - They can also go into all of the Recipes and change the recipes if they would like
 - Have them go in the game and test out the recipes and tools
+## Armor
+## Material Pack (faster making of ore, tools, armor)
+## Coding Effects on Tools
+## Break
+## Biomes
+## Custom textures for our blocks
+## Woodpack
+## Other Biome blocks
+## Make Biome
+## Free create

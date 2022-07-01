@@ -76,7 +76,7 @@ tags:
 # Day 5
 - Freetime until everyone arrives - 10-15 mins
 - Build A Monster - 10-15 mins
-	- It's in art and design
+	- Build Battle OR the instructions they have. The instructions they have WILL take longer though, 30 minutes.
 - Novice Functions (Talk about functions as well) - 30 mins
 - Intermediate Functions - 30 mins
 - Break - 15 mins

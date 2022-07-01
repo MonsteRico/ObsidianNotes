@@ -42,7 +42,7 @@ tags:
 
 ## Day 3 - Custom bipedal mob and various special effects or stuff for it
 
-[[Codeninjas Camps/Minecraft Modding/Day 3 Mod Camp]]
+[[Codeninjas Camps/Minecraft Modding/Day 3]]
 
 - Today we make a mob
 - beginning talk about mobs, types of mobs, what is a mob etc.

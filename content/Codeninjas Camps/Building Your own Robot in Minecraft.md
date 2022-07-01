@@ -77,10 +77,23 @@ tags:
 - Freetime until everyone arrives - 10-15 mins
 - Build A Monster - 10-15 mins
 	- Build Battle OR the instructions they have. The instructions they have WILL take longer though, 30 minutes.
-- Novice Functions (Talk about functions as well) - 30 mins
-- Intermediate Functions - 30 mins
+- Novice Functions (Talk about functions as well) - 20 mins
+	- Do the ninja challenge, that's basically intermediate
+- Expert Functions - 30 mins
 - Break - 15 mins
 - MINECRAFT BINGO! - 15 mins
-- One of the other subject kits or ai or something idk yet
-- Expert or freetime idk yet
-- Code a farm in your own survival/creative world or with others - rest of time
+- Pick a few subject kit/worlds that they can play around in - 45 mins
+	- Good ones are
+	- Intro to Chemistry in Science
+	- Aquarium
+	- Museum Heist
+	- AI forest one
+	- Ocelot AI one
+- Code something!/freetime - rest of time
+- What did we learn this week? Go over all six things, a few minutes on each. Ask questions make them answer. Have them give examples (both code and irl if possible). If they don't remember then reexplain. 
+	- Sequencing
+	- Events
+	- Variables
+	- Loops
+	- Conditionals (If)
+	- Functions

@@ -24,7 +24,7 @@ tags:
 - In the AI and goals, you can show off what some of the AI goals do, but the main thing to do here is get rid of everything except the top block and then click **AI Templates** and choose one to use, probably Basic passive, aggressive towards player, or aggressive when hit.
 - Under the last section spawning they can change whether their new mob spawns like monsters, creatures, etc. Thats the only setting they should probably change on this page, but as per usual the question marks can explain the settings more.
 ## Break
-
+## IDK
 
 - Create a custom tool with effects on it.
 

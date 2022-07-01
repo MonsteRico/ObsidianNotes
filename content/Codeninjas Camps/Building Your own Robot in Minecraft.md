@@ -68,6 +68,19 @@ tags:
 	- The hints are messed up and the instructions can be kind of confusing so here's the full code
 	- ![[Codeninjas Camps/Pasted image 20220630105218.png]]
 - Application Conditionals - rest of time (30 mins)
-	- 
+	- This has you spawning animals based on the block you stand on
+	- Check if the block at ~ 0 ~ 0 ~ 0 is potatoes and spawn a pig for example
+	- For Wheat, the item in the code editor is "Crops"
+	- They can only plant stuff on the dirt
+	- Encourage them to work on this for at least 15 mins, the rest of the time can be spent in their own worlds if they want as long as they try and use the code. Do some mini coding project on screen to give them something to see in the background. I've been making a villager house only with the code.
 # Day 5
-- 
+- Freetime until everyone arrives - 10-15 mins
+- Build A Monster - 10-15 mins
+	- It's in art and design
+- Novice Functions (Talk about functions as well) - 30 mins
+- Intermediate Functions - 30 mins
+- Break - 15 mins
+- MINECRAFT BINGO! - 15 mins
+- One of the other subject kits or ai or something idk yet
+- Expert or freetime idk yet
+- Code a farm in your own survival/creative world or with others - rest of time

@@ -4,7 +4,7 @@ title: "Day 2"
 tags:
   - CodeNinjas
 ---
-# Day 2 - Tools, Armor, Effects, Tree, Wood, Biome
+# Day 2 - Tools, Armor, Tree, Wood, Biome
 - There's a lot happening on this day, but it all goes fairly quick
 - Play Minecraft until everyone arrives. Start with 10 minutes of free time (camp starts 10 minutes in). This can be changed as needed or liked, I usually like to give some freetime at the start.
 ## Tools - 20 minutes

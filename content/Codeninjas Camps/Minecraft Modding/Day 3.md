@@ -38,3 +38,5 @@ tags:
 
 
 There isn't anything else to do for this day, I honestly think those two things will take a large amount of time for them to follow along with and/or mess around with. If you feel like theres too much time left you can add in stuff like adding effects to armor or doing more complicated effects etc. Otherwise I'd kind of just give them time to develop their mods, they know how to do items, blocks, tools, biomes (i think at least), mobs, and some basic effects on those things.
+
+## Coding Effects on Tools

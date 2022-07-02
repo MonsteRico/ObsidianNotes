@@ -20,7 +20,6 @@ tags:
 - Have them go in the game and test out the recipes and tools
 ## Armor
 ## Material Pack (faster making of ore, tools, armor)
-## Coding Effects on Tools
 ## Break
 ## Biomes
 ## Custom textures for our blocks

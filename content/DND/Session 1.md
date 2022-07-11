@@ -3,5 +3,6 @@
 title: "Session 1"
 tags:
 ---
-My name is Aeric spelled with an A. and an E. :)
-I'm frineds with Abraxas ()
+- meet with [[DND/Abraxas - Jonah]] whos escorting the group to the elven scepter trial
+- "what is mans greatest fear"
+- 

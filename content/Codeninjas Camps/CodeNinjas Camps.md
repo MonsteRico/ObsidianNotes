@@ -3,7 +3,7 @@
 title: "CodeNinjas Camps"
 tags:
 ---
-# List of CodeNinjas Camps
+# List of CodeNinjas Camps I have notes for
 - [[Codeninjas Camps/Building Your own Robot in Minecraft]]
 - [[Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas]]
-- [[Codeninjas Camps/Minecraft Moviemaking]]
+- 

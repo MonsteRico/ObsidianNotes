@@ -20,7 +20,7 @@ tags:
 - Have them go in the game and test out the recipes and tools
 - Give them time to mess around with the properties of the tools
 ## Armor - 30 mins
-## Material Pack (faster making of ore, tools, armor, 30 mins)
+## Material Pack (faster making of ore, tools, armor, 20 mins)
 ## Break - 15 mins
 ## Biomes - 15 mins
 ## Custom textures for our blocks - 15 mins

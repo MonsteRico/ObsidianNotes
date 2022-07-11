@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hub",
+      "path": "DND/Hub.md"
+    },
+    {
       "basename": "Session 1",
       "path": "DND/Session 1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Integration by Parts",
       "path": "Integration by Parts.md"
-    },
-    {
-      "basename": "Integration by Partial Fractions",
-      "path": "Integration by Partial Fractions.md"
     }
   ],
   "omittedPaths": [

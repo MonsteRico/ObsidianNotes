@@ -6,7 +6,7 @@ tags:
 ---
 # Day 2 - Tools, Armor, Tree, Wood, Biome
 - There's a lot happening on this day, but it all goes fairly quick
-- Play Minecraft until everyone arrives. Start with 10 minutes of free time (camp starts 10 minutes in). This can be changed as needed or liked, I usually like to give some freetime at the start.
+- Play Minecraft until everyone arrives. Start with 10 minutes of free time (camp starts 10 minutes in). This can be changed as needed or liked, I usually like to give some freetime at the start. Reduce time from the Tools/Armor section as needed, they probably won't take 30 minutes anyways but I allocated that much since we had large camp sizes. Break can also be shortened if needed.
 ## Tools - 30 minutes
 - First thing to do is make tools of our ore from yesterday
 - Instead of having to make each individual tool, we can use MCreator to make all of the tools and recipes at once!

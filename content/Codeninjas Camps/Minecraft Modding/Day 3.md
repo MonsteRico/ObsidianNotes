@@ -5,7 +5,7 @@ tags:
 ---
 
 # Day 3 Notes
-## Custom Tool Effects
+## Custom Tool Effects - 30 mins
 - Create a custom tool with effects on it.
   - Create a texture for it, create the mod element, set up the properties however they want
   - In the triggers section of the tool or item, add procedures to **Living entity is hit with tool** and/or **When tool in hand tick**
@@ -14,7 +14,7 @@ tags:
   - A second is 20 ticks, make sure they keep that in mind when setting the ticks value
   - Any other general cool effects you can think of to walk them through, feel free to do so.
 
-## Ranged Weapon
+## Ranged Weapon - 30 mins
 - Either do both of these options or just one, your pick
 - Bow/Arrow type ranged weapon
 - Make a texture for your bow part (could be a type of gun, bow, crossbow etc), **save as Item texture**
@@ -32,7 +32,7 @@ tags:
   - Main thing to change there is the **Item representing texture of projectile**, change it to the item/texture they made.
   - Triggers if they want to mess with them
 - Add recipes for both the ammo and the weapon
-## Snowball Type Item
+## Snowball Type Item - 30 mins
 - Make texture for the snowball type thing **save as Item texture**
 - Create a ranged item
   - Set the max stack size to something other than 1, it's how many can be in a stack. eg snowballs can have 16 in a stack
@@ -47,8 +47,9 @@ tags:
   - Rest of the settings act the same
   - Recipe as per usual
 
-## Break
-## Mob Skin
+## Break - 10-15 mins
+## Minecraft Mobs
+## Mob Skin- 30 mins
 - First thing to do for this is go to [www.minecraftskins.com](https://www.minecraftskins.com/)
 - Click **editor** at the top
 - **VERY IMPORTANT STEP HERE MAKE SURE THEY DO THIS**
@@ -59,7 +60,7 @@ tags:
 - Left click outside of the skin to pan around the skin and color in all parts
 - Once finished they download it and save it to downloads folder
 
-## Mob
+## Mob - 45 mins
 - In MCreator, add a Living Entity mod element (green plus)
 - They should not mess with the Entity Model section at all under visual and sound, nor the glow texture or the bounding box. I'd also recommend against the sounds, but they can if they want. ONly use the deafult sounds in the game, don't try and downlaod new ones. Make sure they choose their entity texture by clicking the green plus next to it and going to downloads and opening their texture they made and then select it from the dropdown
 - In the behavior section they can change some of the general behaviors, same thing as the usual properties they can click teh question mark to see what it does. Important one at the top of Mob or Creature (aggressive or passive). They can edit the drop and equpiment here too, even using their own items.

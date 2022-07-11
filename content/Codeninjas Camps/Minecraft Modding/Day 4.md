@@ -5,14 +5,14 @@ tags:
 ---
 
 # Day 4 MC Modding Camp
-## Potion
+## Potion - 30 mins
 - Really simple
 - Make a **potion item** mod element
 - Name the different potions at the top, add effects at the bottom.
 	- The duration is in ticks, so 20 ticks per second \* x amount of seconds = the duration they want
 	- Amplifier increases the level
 - Theres no way to change the color of the potion that I can see, its just auto generated
-## Paintings
+## Paintings - 20 mins
 - Very very simple to do
 - Download any image from the internet, save it to downloads (somewhere they can get to)
 - Make a new painting
@@ -28,11 +28,12 @@ tags:
 	- 32x32 --- 2x2
 	- 64x64 --- 4x4
 - I don't think Minecraft does any other sizes, but you get the idea those are the intervals
-## Food
+## Food - 30 mins
 - Owen said that when he did the camp they really liked making new food items, so I figured leave this for last and let them mess around with it the most and make what they want.
 - Food stuff is pretty basic, it's make texture **save as Item texture**, make Item mod element, go to food properties and make it a food and change the properties
-## Break
-## Free Create
+## Break - 15
+## Free Create - rest of time
+- If more structure is needed or another goal is needed, go through dimensions
 ## Dimension
 - They will need textures for the item used to light the portal and for the portal itself
 - Also will need a block to use for the portal frame, have to make the block mod element if they are making their own

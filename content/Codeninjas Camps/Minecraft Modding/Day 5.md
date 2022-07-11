@@ -11,4 +11,6 @@ tags:
 ## Play mods in Minecraft! - (60 minutes)
 ## Multiplayer server minigames - (60 minutes)
 ## Minecraft challenges
-- who can do x the faste
+- who can do x the fastest?
+- build battles 
+- etc

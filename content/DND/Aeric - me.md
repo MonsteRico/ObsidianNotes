@@ -1,6 +1,6 @@
 ---
 
-title: "Aeric - me
+title: "Aeric - me"
 tags:
 ---
 - My name is Aeric spelled with an A. and an E. :)

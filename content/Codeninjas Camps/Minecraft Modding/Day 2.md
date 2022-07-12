@@ -61,4 +61,18 @@ tags:
 - Once they make the textures, they can make the block mod elements and change the properties
 - Have them test each of the blocks in game and make sure they look good, have the right properties they want, can be used in recipes etc.
 ## Make Biome - 30 mins
+- Go through this once on the screen and have them watch, then do it AGAIN and have them follow along. OR go through it a few steps at a time altogether. Your choice
+- Add a new mod element (green plus) and choose biome. Name the mod element whatever the name of the biome will be
+- Choose the ground block to be your ground/grass block
+- Choose the underground block to be your underground/dirt block
+- Leave the underwater block blank
+- They can change the name of the biome that will show up in game
+- They can change any of the colors however they want, should be obvious what its changing
+- Change it to say Custom trees at the bottom and fill in the blocks as appropriate
+- Leave tree type as default
+- Example biome with everything filled in as it should be (i didnt make proper textures for everything, I just used placeholder blocks). Everything circled can be changed
+	- ![[Pasted image 20220712153731.png]]
+- There are a LOT of properties and settings that can be changed for biomes, make use of the question mark giving an explanation and your own minecraft knowledge to interpret it all
+- Here are some of the sections/major properties to change
+	- 
 ## Free create - rest of time

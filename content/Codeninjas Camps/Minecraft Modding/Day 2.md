@@ -34,10 +34,31 @@ tags:
 	- The chest/helmet are on one texture and the boots/pants are on another
 ## Material Pack (faster making of ore, tools, armor, 20 mins)
 - Now that we know how to make and edit both armor and tools, we will show a quick way to make a full ore and set of tools and blocks with it!
-- In the same section as the armor
-## Break - 15 mins
+- In the same section as the armor pack and tool pack is the Material pack
+- ![[Pasted image 20220712151837.png]]
+	- The Icon right after that is an ore pack if they just want to make an ore
+- You choose
+	- name of the material eg. "silver", "diamond", "iron", "ninjaite"
+	- whether its a gem, dust, or ingot
+	- the color
+	- the power relative to iron
+- When you click create material pack, it will make a full set of tools, armor, and the ore/ingot for you all at once along with all the recipes.
+- They can then go modify all of the generated textures, recipes, and items and change the properties to their liking
+- Give them time to mess around with making these and changing properties, finding the ores and etc. to take up any remaining time before break.
+## Break - 10-15 mins
 ## Biomes - 15 mins
-## Custom textures for our blocks - 15 mins
-## Other Biome blocks - 30 mins
+- Talk about biomes with the kids
+- What is a biome? What is a biome not in Minecraft? (basically have the same answer)
+- What kind of blocks do we need in a biome? (wood, dirt, grass, stone, leaves)
+- What are some Minecraft or real life biomes? (taiga, desert, plains etc)
+- We are going to be creating our own biomes, so think about what kind of blocks and textures you want for it.
+## Making Biome blocks - 45 mins
+- Create the textures for the following blocks
+	- A ground block (equivalent of grass)
+	- An underground block (equivalent of dirt)
+	- A tree log/stem block
+	- A tree leaf block
+- Once they make the textures, they can make the block mod elements and change the properties
+- Have them test each of the blocks in game and make sure they look good, have the right properties they want, can be used in recipes etc.
 ## Make Biome - 30 mins
 ## Free create - rest of time

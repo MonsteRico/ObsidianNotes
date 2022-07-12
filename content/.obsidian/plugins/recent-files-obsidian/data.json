@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Cleaning computers",
-      "path": "Codeninjas Camps/Minecraft Modding/Cleaning computers.md"
+      "basename": "Apartments",
+      "path": "Apartments.md"
+    },
+    {
+      "basename": "Aeric - me",
+      "path": "DND/Aeric - me.md"
+    },
+    {
+      "basename": "Hub",
+      "path": "DND/Hub.md"
+    },
+    {
+      "basename": "Session 1",
+      "path": "DND/Session 1.md"
+    },
+    {
+      "basename": "Zenita - Em",
+      "path": "DND/Zenita - Em.md"
+    },
+    {
+      "basename": "Cleremy Jarkson - Zaid",
+      "path": "DND/Cleremy Jarkson - Zaid.md"
+    },
+    {
+      "basename": "Itheiro- Ethan",
+      "path": "DND/Itheiro- Ethan.md"
+    },
+    {
+      "basename": "Abraxas - Jonah",
+      "path": "DND/Abraxas - Jonah.md"
+    },
+    {
+      "basename": "Ivan NoBangu - Luke",
+      "path": "DND/Ivan NoBangu - Luke.md"
     },
     {
       "basename": "Day 2",
       "path": "Codeninjas Camps/Minecraft Modding/Day 2.md"
     },
     {
-      "basename": "Day 1",
-      "path": "Codeninjas Camps/Minecraft Modding/Day 1.md"
-    },
-    {
-      "basename": "CodeNinjas Camps",
-      "path": "Codeninjas Camps/CodeNinjas Camps.md"
-    },
-    {
-      "basename": "Building Your own Robot in Minecraft",
-      "path": "Codeninjas Camps/Building Your own Robot in Minecraft.md"
-    },
-    {
-      "basename": "Day 5",
-      "path": "Codeninjas Camps/Minecraft Modding/Day 5.md"
+      "basename": "Day 3",
+      "path": "Codeninjas Camps/Minecraft Modding/Day 3.md"
     },
     {
       "basename": "Day 4",
       "path": "Codeninjas Camps/Minecraft Modding/Day 4.md"
     },
     {
-      "basename": "Day 3",
-      "path": "Codeninjas Camps/Minecraft Modding/Day 3.md"
+      "basename": "Day 5",
+      "path": "Codeninjas Camps/Minecraft Modding/Day 5.md"
+    },
+    {
+      "basename": "Day 1",
+      "path": "Codeninjas Camps/Minecraft Modding/Day 1.md"
+    },
+    {
+      "basename": "Building Your own Robot in Minecraft",
+      "path": "Codeninjas Camps/Building Your own Robot in Minecraft.md"
     },
     {
       "basename": "Minecraft Modding Camp Notes Codeninjas",
       "path": "Codeninjas Camps/Minecraft Modding/Minecraft Modding Camp Notes Codeninjas.md"
+    },
+    {
+      "basename": "CodeNinjas Camps",
+      "path": "Codeninjas Camps/CodeNinjas Camps.md"
     },
     {
       "basename": "Block",
@@ -43,10 +75,6 @@
     {
       "basename": "Texture Making",
       "path": "Codeninjas Camps/Minecraft Modding/Texture Making.md"
-    },
-    {
-      "basename": "Apartments",
-      "path": "Apartments.md"
     },
     {
       "basename": "Rhetorical Analysis",
@@ -167,34 +195,6 @@
     {
       "basename": "Integration by Parts",
       "path": "Integration by Parts.md"
-    },
-    {
-      "basename": "Integration by Partial Fractions",
-      "path": "Integration by Partial Fractions.md"
-    },
-    {
-      "basename": "Integrals",
-      "path": "Integrals.md"
-    },
-    {
-      "basename": "Dot Product",
-      "path": "Dot Product.md"
-    },
-    {
-      "basename": "Divergence Test",
-      "path": "Divergence Test.md"
-    },
-    {
-      "basename": "Cross Product",
-      "path": "Cross Product.md"
-    },
-    {
-      "basename": "Alternating Series",
-      "path": "Alternating Series.md"
-    },
-    {
-      "basename": "Improper Integral",
-      "path": "Improper Integral.md"
     }
   ],
   "omittedPaths": [

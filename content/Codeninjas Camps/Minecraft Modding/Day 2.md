@@ -74,5 +74,16 @@ tags:
 	- ![[Pasted image 20220712153731.png]]
 - There are a LOT of properties and settings that can be changed for biomes, make use of the question mark giving an explanation and your own minecraft knowledge to interpret it all
 - Here are some of the sections/major properties to change
-	- 
+	- Features - lets you change the number of different things per chunk like trees, grass, flowers and more. **Don't let numbers get set too high, it might crash.** I haven't tested numbers so I don't know where it'll crash at just keep an eye on it.
+	- Structures - check off the boxes of which structures can generate in the biome
+	- Skip effects, but if they're trying really hard - Lets you change the music/sounds that play in the biome. Also lets you have particle effects that are constantly in the biome.
+	- Entity spawning - Click add spawn entry to start.
+		- Entity dropdown lets you choose an entity to spawn. Make sure they're not being ridiculous and spawning thousands of ender dragons in the biome.
+		- Spawn type - Will this entity spawn like a monster (at night/dark like zombies), like a creature (randomly during the day like sheep), or like bats (ambient)?
+		- Spawn Weight - higher number means higher chance this mob spawns instead of anything else
+		- Min/max group size - number to spawn at a time
+		- Remove this entry - removes the entry
+	- Biome generation - Only thing to change here is biome weight, which determines how rare the biome is. Lower numbers are rarer. Also make sure generate in the overworld is checked.
+- When they have finished with their biome, have them locate it in game and play in it!
+	- Useful command is `/locatebiome [press up arrow and then tab auto complete the biome from the list]` 
 ## Free create - rest of time

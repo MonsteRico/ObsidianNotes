@@ -20,7 +20,21 @@ tags:
 - Have them go in the game and test out the recipes and tools
 - Give them time to mess around with the properties of the tools
 ## Armor - 30 mins
+- Creating an armor pack is almost exactly the same as creating a tool pack
+- The button is right next to the tool pack one, 
+- ![[Pasted image 20220712151214.png]]
+- Choose the main ore/material, choose a color, set power factor relative to iron, and add "Armor" to the name
+- Same as before they can edit the recipes and the properties of the Armor
+- The Armor shows up as one mod element to edit, you can change the in game names of each item here.
+- If they want to change the properties of the armor they can, most of them are explained in their name or the question mark. Only thing they shouldn't change here is the textures
+- If they want to modify the textures, it's possible but difficult.
+	- Go to resources, theres a new textures for armor section.
+	- The item textures and the armor textures themselves are different things that need to be modfied separately.
+	- The armor texture is unwrapped similar to the mob textures you would have shown yesterday, which makes it confusing to edit but possible
+	- The chest/helmet are on one texture and the boots/pants are on another
 ## Material Pack (faster making of ore, tools, armor, 20 mins)
+- Now that we know how to make and edit both armor and tools, we will show a quick way to make a full ore and set of tools and blocks with it!
+- In the same section as the armor
 ## Break - 15 mins
 ## Biomes - 15 mins
 ## Custom textures for our blocks - 15 mins

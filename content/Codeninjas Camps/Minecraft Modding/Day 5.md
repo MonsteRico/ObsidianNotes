@@ -32,12 +32,20 @@ tags:
 ## Load mods into Minecraft
 - Close out of everything and go back to the Desktop
 - On the bottom left of the screen should be a search bar. Click on it and then type "%appdata%" without the quotes. Then press enter. It will open a folder. Have them wait here while you check and make sure they all got it.
-- In this folder, double click the .minecraft folder. Then double click the mods folder.
+- In this folder, double click the .minecraft folder. Then double click the mods folder. (If you did optional setup stuff their might be other mods here already)
 - Copy the mod.jar file from the Desktop into this folder, then close out of it.
-- A l
-## Play mods in Minecraft! - (60 minutes)
-## Multiplayer server minigames - (60 minutes)
+- A lot of people will likely need help with these steps
+## Play mods in Minecraft!
+- Open up the Minecraft Launcher
+- Click on the bottom left where it probably says "1.19" and change it to the forge installation. Then they can click play and let it load!
+- Now that they are in Minecraft, everything is just like the dev environment just now it has their mod installed and its their own account
+## Multiplayer server minigames
+- I personally will have a server setup with a minigames type of map from my house that people can then connect to
+- The other option is to have them play Hypixel or Mineplex or any other servers. However, these can't be done with other people as easily.
+- They will need to go out of their modded Minecraft and change it back to 1.19 regardless
+- Play some Minecraft minigames together basically
 ## Minecraft challenges
-- who can do x the fastest?
-- build battles 
-- etc
+- Do various Minecraft challenges like
+	- Who can do x the fastest?
+	- Build battles
+	- Most amount of x gathered in 10 minutes

@@ -7,7 +7,7 @@ The Minecraft Modding camp uses MCreator. It will require a Minecraft Java editi
 
 ## Other Notes
 - [[Codeninjas Camps/Minecraft Modding/Block|Block]] - Describes everything about the Block mod element. Good reference if you don't understand any properties on the blocks. Also a good reference as to level of detail that should be included in potential notes on every mod element for a club type setup.
-- [[Codeninjas Camps/Minecraft Modding/Setting up Computers|Setting up computers]] - Has a list of the programs needed for each computer and how to set everything up. Also has instructions on clearing the computers for a second running of the camp.
+- [[Codeninjas Camps/Minecraft Modding/Setting up Computers|Setting up computers]] - Has a list of the programs needed for each computer and how to set everything up. Also has instructions on clearing the computers for a second running of the camp. Have all of the computers set up before the camp starts
 - [[Codeninjas Camps/Minecraft Modding/Texture Making|Texture Making]] - Describes everything to do with making textures. Same as the block, this is what I would be doing for everything in MCreator for club notes.
 - [[Codeninjas Camps/Minecraft Modding/General Camp Notes|General Camp Notes]] - Just my general notes around the camp as a whole. Some of it is personal taste/advice, so feel free to ignore it.
 ## Day 1
@@ -42,4 +42,26 @@ The Minecraft Modding camp uses MCreator. It will require a Minecraft Java editi
 - Mob - make a mob in MCreator and edit it's AI
 - Free create with any time left
 ## Day 4
+- [[Codeninjas Camps/Minecraft Modding/Day 4|Day 4 Detailed Notes]]
+- Potion - make a custom potion that gives multiple effects at once
+- Painting - make a painting with any image from google
+- Food - make our own food item
+- Break
+- Total free create time. They have time to add to their mod as much as they want, just know that tomorrow we won't be working in MCreator we will be actually playing our mods
+- If more structure is needed for the second half of the day, there's notes for a Dimension. Also useful if anyone asks how to make a dimension or they really don't like the potion/painting/food stuff
 ## Day 5
+- [[Codeninjas Camps/Minecraft Modding/Day 5|Day 5 Detailed Notes]]
+- This day will change based on who's running the camp, but here's the general overview of what I was trying to do
+- This day is basically a structured free play or free create day is the goal
+- Talk about how Minecraft mods actually work behind the scenes
+- Export our mod (both zip and jar for flashdrives to take home)
+- Load our mod into Minecraft
+- Play with our mod in Minecraft for a while, whether in survival or creative mode
+- Snack break can go here, or after the next thing
+- Play minigames on a multiplayer server
+	- For my camp, I plan on starting a server at my house that they can join from CodeNinjas that has a minigames map downloaded.
+	- Hypixel and Mineplex are common servers that they could play on for a bunch of minigames, however they can't really play together easily on these servers.
+	- This is really at the discretion of those running the camp, how do you want to structure this final play day?
+- Minecraft challenges
+	- Do challenges within Minecraft. e.g. who can find x block the fastest? Who can reach the Nether first? Also can do things like Build Battle.
+- This day is not set in stone at all, change it to fit your needs. MCreator does have more things to do, I just don't have notes on them!

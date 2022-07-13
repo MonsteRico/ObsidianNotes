@@ -6,6 +6,8 @@ tags:
 
 # Day 3 Notes
 ## Custom Tool Effects - 30 mins
+- Have the ninjas follow along or watch as you create a pickaxe that gives you haste while you hold it.
+	- To do this, follow everything below
 - Create a custom tool with effects on it.
   - Create a texture for the tool, create the mod element, set up the properties however they want
   - In the triggers section of the tool or item, add procedures to **Living entity is hit with tool** and/or **When tool in hand tick**

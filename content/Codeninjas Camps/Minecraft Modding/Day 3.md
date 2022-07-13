@@ -52,25 +52,38 @@ tags:
 	  - ![[Pasted image 20220713162813.png]]
 	  - Press that plus button and then create with the default name
 	  - The code will look like this
-	  - 
-
+	  - ![[Pasted image 20220713162934.png]]
+	  - They can change the living entity to any Minecraft mob they know of
+	  - They're also welcome to mess with the code more and try making different things happen, some of the older campers might be able to make some cool things.
+	  - Encourage experimentation, show maybe placing a block at the x, y, z, instead of spawning a mob. (It's a "Place x at x y z" block, under Block Management section). Try making it do effects when it hits something instead of when it hits a block, like the custom weapon before.
 ## Break - 10-15 mins
 ## Minecraft Mobs
+- Talk through these questions and have the ninjas answer them
+- What are Mobs in Minecraft? (They are animals, creatures, enemies etc)
+- What are some examples of mobs? (Sheep, Drowned, Ender Dragon etc, don't let them get TOO off track b/c they probably will)
+- What Mob groups are there? Which mobs have similar AI? (Passive - sheep, cows, Neutral - bees, wolves, Aggressive - zombies, skeletons, Wandering - bats)
+- We talked about mob textures on day one, but quickly review them here
+- - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220621211644.png]]
+- We know Minecraft mobs have textures unfolded kind of like this. Player textures are also done the exact same way. Because of this, we can use any player skin as a Mob skin and turn it into a mob.
 ## Mob Skin- 30 mins
 - First thing to do for this is go to [www.minecraftskins.com](https://www.minecraftskins.com/)
 - Click **editor** at the top
 - **VERY IMPORTANT STEP HERE MAKE SURE THEY DO THIS**
 - They need to click the button that says **Outer layer** and turn it off, or else the texture they' make wont work right in MCreator.
-- Julian likely will know more about this if he has done it before
 - Screen should look like this ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Outer Layer.png]]'
 - The tools should be pretty self explanatory, but theres pencil eraser, eyedropper, bucket zoom etc
 - Left click outside of the skin to pan around the skin and color in all parts
-- Once finished they download it and save it to downloads folder
-
+- Once finished download it and save it to downloads folder, download button is on the right
+- Have them make a skin for the mob they want to create. Some examples could be a new type of zombie, a herobrine type mob etc. basically anything that stands on two legs and looks kind of like a player.
+- Making textures for any other kind of mob is difficult, as such we are only able to make mobs that look kind of like players. However, the AI of these mobs can be like any other mob in the game. You could have a standing Pikachu, but the AI is like that of a Wolf.
 ## Mob - 45 mins
 - In MCreator, add a Living Entity mod element (green plus)
-- They should not mess with the Entity Model section at all under visual and sound, nor the glow texture or the bounding box. I'd also recommend against the sounds, but they can if they want. ONly use the deafult sounds in the game, don't try and downlaod new ones. Make sure they choose their entity texture by clicking the green plus next to it and going to downloads and opening their texture they made and then select it from the dropdown
-- In the behavior section they can change some of the general behaviors, same thing as the usual properties they can click teh question mark to see what it does. Important one at the top of Mob or Creature (aggressive or passive). They can edit the drop and equpiment here too, even using their own items.
+- They should not mess with the Entity Model section at all under visual and sound, nor the glow texture or the bounding box. I'd also recommend against the sounds, but they can if they want. 
+	- Only use the default sounds in the game, don't try and download new ones. 
+- Make sure they choose their entity texture by clicking the green plus next to it and going to downloads and opening their texture they made and then select it from the dropdown
+- In the behavior section they can change some of the general behaviors, same thing as the usual properties they can click the question mark to see what it does. 
+**- Important one at the top of Mob or Creature (aggressive or passive).** 
+- They can edit the drop and equipment here too, even using their own items.
 - I'd skip particles and definitely skip inventory. Triggers are questionable, if you come up with ideas youre welcome to show them
 - In the AI and goals, you can show off what some of the AI goals do, but the main thing to do here is get rid of everything except the top block and then click **AI Templates** and choose one to use, probably Basic passive, aggressive towards player, or aggressive when hit.
 - Under the last section spawning they can change whether their new mob spawns like monsters, creatures, etc. Thats the only setting they should probably change on this page, but as per usual the question marks can explain the settings more.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alternating Series.md",
+            "file": "Things on an island.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternating Series.md",
+                "file": "Things on an island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alternating Series.md",
+                "file": "Things on an island.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,15 +133,15 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
-    "Alternating Series.md",
-    "English Research/Gun Violence Archive.md",
-    "English Research/What have we learned from the time trend of mass shootings in the U.S..md",
-    "English Research/Violent game acceptance the influences of aggression tendency, thrill seeking, and perceived risk.md",
-    "English Research/Mass shootings aren't growing more common – and evidence contradicts common stereotypes about the killers.md",
-    "English Research/Violent Video Games, Mass Shootings, and the Supreme Court Lessons for the Legal Community in the Wake of Recent Free Speech Cases and Mass Shootings.md",
-    "English Research/Video Games and Adolescent Fighting.md",
-    "English Research/The Argument That Video Games Spur Mass Shootings Is Losing Steam.md",
-    "Apartments.md",
-    "DND/Aeric - me.md"
+    "Codeninjas Camps/Minecraft Modding/Cleaning computers.md",
+    "Codeninjas Camps/Minecraft Modding/Day 2.md",
+    "Codeninjas Camps/Minecraft Modding/Day 1.md",
+    "Codeninjas Camps/CodeNinjas Camps.md",
+    "Codeninjas Camps/Building Your own Robot in Minecraft.md",
+    "Codeninjas Camps/Minecraft Moviemaking.md",
+    "Codeninjas Camps/Pasted image 20220628112510.png",
+    "Codeninjas Camps/Pasted image 20220630105218.png",
+    "Codeninjas Camps/Minecraft Modding/Day 5.md",
+    "Codeninjas Camps/Minecraft Modding/Day 4.md"
   ]
 }

@@ -23,10 +23,10 @@ tags:
 - When saving mods to flashdrives they can put that file on the flashdrives
 ## Export mods to .jar
 - In MCreator, on the top right click this icon
-- ![[Pasted image 20220713171544.png]]
+- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220713171544.png]]
   - Everyone will be exporting their mods at once, which may take some time
   - A popup will come up asking for donations. Click "Export the mod without donating"
-  - ![[Pasted image 20220713171640.png]]
+  - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220713171640.png]]
   - Save the mod.jar file to the Desktop again and have them name it their name
   - This file can also be put on flashdrives when parents arrive
 ## Load mods into Minecraft

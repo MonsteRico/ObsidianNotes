@@ -52,10 +52,10 @@ tags:
   - Recipe as per usual
   - As a bonus to use some more time if needed, we can add some code to spawn a mob where the projectile lands
 	  - In the Triggers section, we make a procedure that runs When projectile hits block.
-	  - ![[Pasted image 20220713162813.png]]
+	  - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220713162813.png]]
 	  - Press that plus button and then create with the default name
 	  - The code will look like this
-	  - ![[Pasted image 20220713162934.png]]
+	  - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220713162934.png]]
 	  - They can change the living entity to any Minecraft mob they know of
 	  - They're also welcome to mess with the code more and try making different things happen, some of the older campers might be able to make some cool things.
 	  - Encourage experimentation, show maybe placing a block at the x, y, z, instead of spawning a mob. (It's a "Place x at x y z" block, under Block Management section). Try making it do effects when it hits something instead of when it hits a block, like the custom weapon before.

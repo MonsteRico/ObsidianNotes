@@ -82,8 +82,9 @@ tags:
 	- Only use the default sounds in the game, don't try and download new ones. 
 - Make sure they choose their entity texture by clicking the green plus next to it and going to downloads and opening their texture they made and then select it from the dropdown
 - In the behavior section they can change some of the general behaviors, same thing as the usual properties they can click the question mark to see what it does. 
-**- Important one at the top of Mob or Creature (aggressive or passive).** 
-- They can edit the drop and equipment here too, even using their own items.
-- I'd skip particles and definitely skip inventory. Triggers are questionable, if you come up with ideas youre welcome to show them
+	- **Important one at the top of Mob or Creature (aggressive or passive).** 
+	- They can edit the drop and equipment here too, even using their own items.
+- I'd skip particles and definitely skip inventory. Triggers are questionable, if you come up with ideas you're welcome to show them
 - In the AI and goals, you can show off what some of the AI goals do, but the main thing to do here is get rid of everything except the top block and then click **AI Templates** and choose one to use, probably Basic passive, aggressive towards player, or aggressive when hit.
-- Under the last section spawning they can change whether their new mob spawns like monsters, creatures, etc. Thats the only setting they should probably change on this page, but as per usual the question marks can explain the settings more.
+- Under the last section spawning they can change whether their new mob spawns like monsters, creatures, etc. That's the only setting they should probably change on this page, but as per usual the question marks can explain the settings more.
+- Once they have made a mob, go in the game and spawn it. Play around with it, try editing properties, make more mobs etc.

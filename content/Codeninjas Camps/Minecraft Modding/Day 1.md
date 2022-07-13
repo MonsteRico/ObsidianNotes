@@ -5,7 +5,7 @@ tags:
   - CodeNinjas
 ---
 # Day 1 - Intro, First Block, and Ore
-- Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer. don't delay camp start by more than 15 minutes even if someone's late. **ever**. don't.
+- Play Minecraft until everyone arrives and gets logged in, just have them log in or use our accounts for singleplayer. don't delay camp start by more than 15 minutes even if someone's late. **ever**. don't. will delay us too much.
 ## Intro - 5 Min
 - Chris will go over general rules
 - As an icebreaker we do Name, Age/Grade, How long you've been playing Minecraft OR your favorite block/mob/item/biome/mod/etc.

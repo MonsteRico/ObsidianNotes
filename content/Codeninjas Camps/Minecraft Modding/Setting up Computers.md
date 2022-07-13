@@ -1,6 +1,6 @@
 ---
 
-title: "Cleaning computers"
+title: "Setting up Computers"
 tags:
 ---
 - Install Java

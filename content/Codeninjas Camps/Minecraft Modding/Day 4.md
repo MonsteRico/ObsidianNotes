@@ -6,14 +6,12 @@ tags:
 
 # Day 4 MC Modding Camp
 ## Potion - 30 mins
-- Really simple
 - Make a **potion item** mod element
 - Name the different potions at the top, add effects at the bottom.
 	- The duration is in ticks, so 20 ticks per second \* x amount of seconds = the duration they want
 	- Amplifier increases the level
-- Theres no way to change the color of the potion that I can see, its just auto generated
+- There's no way to change the color of the potion that I can see, its just auto generated
 ## Paintings - 20 mins
-- Very very simple to do
 - Download any image from the internet, save it to downloads (somewhere they can get to)
 - Make a new painting
 - Click the plus to add a new image, find their image
@@ -34,13 +32,13 @@ tags:
 ## Break - 15
 ## Free Create - rest of time
 - If more structure is needed or another goal is needed, go through dimensions
-## Dimension
+## Dimension - Can be moved to replace Potion/Paintings instead or if those are done too quick
 - They will need textures for the item used to light the portal and for the portal itself
 - Also will need a block to use for the portal frame, have to make the block mod element if they are making their own
 - Properties
-    - I"d recommend normal world gen
+    - I'd recommend normal world gen
     - Set a main filler block and fluid block
-    - Add any biomes they want to appear in this dimension (could even be the ones theyve made)
+    - Add any biomes they want to appear in this dimension (could even be the ones they've made)
     - Sky/fog color can be changed
     - Whether to allow sleeping or not
     - All the check marks are kind of obvious
@@ -50,7 +48,7 @@ tags:
     - Particles - the particles coming off the portal
     - Luminance - how much it lights up
     - Igniter item name - name of the item used to ignite the portal eg flint and steel
-    - set the textures for the igniter item and the block at teh bottom
-- As far as I can tell theres no way to craft the item for the custom portal, itll have to be a creative only thing i think
+    - set the textures for the igniter item and the block at the bottom
+- As far as I can tell there's no way to craft the item for the custom portal, it'll have to be a creative only thing i think
 - This entire thing is likely to be buggy but if they wanna do it the option is there
 

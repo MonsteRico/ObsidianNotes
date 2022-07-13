@@ -8,3 +8,9 @@ tags:
 - Date: Fall 2014
 - Source: https://www.jstor.org/stable/10.1525/nclr.2014.17.4.553
 # Quotes/thoughts
+- "More crucially, the societal debates about video game violence may have done more damage than good, given the degree to which they distract from more pressing issues such as mental health care, poverty, and educational disparities that may actually contribute to violence."
+	- All these references to video games being a cause is just a major distraction towards finding the true cause
+- "At the time of this writing there have been at least one hundred studies examining video game violence influences on aggression and other related outcomes. However, many of these are remarkably crude and have come under increasing scrutiny and criticism both within and outside of the scholarly community."
+	- Many studies are poorly done and end up yielding inaccurate results
+- "little evidence has emerged to link violent video games with violence-related outcomes."
+- 

@@ -7,19 +7,19 @@ tags:
 # Day 3 Notes
 ## Custom Tool Effects - 30 mins
 - Create a custom tool with effects on it.
-  - Create a texture for it, create the mod element, set up the properties however they want
+  - Create a texture for the tool, create the mod element, set up the properties however they want
   - In the triggers section of the tool or item, add procedures to **Living entity is hit with tool** and/or **When tool in hand tick**
   - ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Trigger 1.png]]
-  - The procedure to add a simple potion effect looks like this, they know what the effects probably are by now.
-  - A second is 20 ticks, make sure they keep that in mind when setting the ticks value
-  - Any other general cool effects you can think of to walk them through, feel free to do so.
+  - The procedure to add a simple potion effect looks like this, they know what the effects all do.
+	  - For example, the code above will give speed level one for 3 seconds while the tool is in their hand
+	  - A second is 20 ticks, make sure they keep that in mind when setting the ticks value
+  - For a tool in hand tick, use lower tick values so when the tool stops being held, the effect goes away
 
 ## Ranged Weapon - 30 mins
-- Either do both of these options or just one, your pick
-- Bow/Arrow type ranged weapon
+- Bow and Arrow type ranged weapon
 - Make a texture for your bow part (could be a type of gun, bow, crossbow etc), **save as Item texture**
 - Make a texture for the projectile (bullet, arrow etc) **save as Item texture**
-- In Mod elements, create an Item for the projectile. Only give it the texture, don't change any other settings for this item
+- In Mod elements, create an Item for the projectile. Only give it the texture, don't change any other settings for this item, the damage is set by the Ranged item mod element
 - Create a Ranged Item
   - Choose the texture they made
   - Item Animation, what the item will act like when they use it.
@@ -27,12 +27,13 @@ tags:
   - Item for ammo, set to the item they just made
   - Shoot constantly while active - optional for their weapon
   - Item usage count - durability
-  - they can chagne the sound if they want
+  - they can change the sound if they want
   - Under the projectile settings at the bottom, they can change the power, damage, knockback etc.
   - Main thing to change there is the **Item representing texture of projectile**, change it to the item/texture they made.
   - Triggers if they want to mess with them
 - Add recipes for both the ammo and the weapon
-## Snowball Type Item - 30 mins
+## Snowball Type Item (with bonus code) - 30 mins
+- Examples could be, dodgeballs, pokeballs, stones, anything you can throw basically
 - Make texture for the snowball type thing **save as Item texture**
 - Create a ranged item
   - Set the max stack size to something other than 1, it's how many can be in a stack. eg snowballs can have 16 in a stack
@@ -46,6 +47,12 @@ tags:
 	- basically MCreator won't let you choose the item youre currently making, so they have to save it and then go back in to choose that item
   - Rest of the settings act the same
   - Recipe as per usual
+  - As a bonus to use some more time if needed, we can add some code to spawn a mob where the projectile lands
+	  - In the Triggers section, we make a procedure that runs When projectile hits block.
+	  - ![[Pasted image 20220713162813.png]]
+	  - Press that plus button and then create with the default name
+	  - The code will look like this
+	  - 
 
 ## Break - 10-15 mins
 ## Minecraft Mobs

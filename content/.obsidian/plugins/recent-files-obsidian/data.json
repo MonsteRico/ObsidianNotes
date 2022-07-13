@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
+      "basename": "CodeNinjas Camps",
+      "path": "Codeninjas Camps/CodeNinjas Camps.md"
+    },
+    {
       "basename": "Full Overview",
       "path": "Codeninjas Camps/Minecraft Modding/Full Overview.md"
     },
     {
       "basename": "Texture Making",
       "path": "Codeninjas Camps/Minecraft Modding/Texture Making.md"
-    },
-    {
-      "basename": "CodeNinjas Camps",
-      "path": "Codeninjas Camps/CodeNinjas Camps.md"
     },
     {
       "basename": "Building Your own Robot in Minecraft",
@@ -59,10 +63,6 @@
     {
       "basename": "Convergence and Divergence",
       "path": "Convergence and Divergence.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
     },
     {
       "basename": "Genre",

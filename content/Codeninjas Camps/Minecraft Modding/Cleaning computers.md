@@ -13,4 +13,4 @@ tags:
 - Go back into Minecraft Launcher, run the forge version once
 - Install newest version of MCreator, don't keep old files (theres a checkbox for this)
 - OR if newest version of MCreator is installed already
-	- 
+	- Go to C:/Users/codeninjas user/ and delete MCreatorWorkspaces

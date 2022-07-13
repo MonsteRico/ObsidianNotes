@@ -22,7 +22,7 @@ tags:
 ## Armor - 30 mins
 - Creating an armor pack is almost exactly the same as creating a tool pack
 - The button is right next to the tool pack one, 
-- ![[Pasted image 20220712151214.png]]
+- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220712151214.png]]
 - Choose the main ore/material, choose a color, set power factor relative to iron, and add "Armor" to the name
 - Same as before they can edit the recipes and the properties of the Armor
 - The Armor shows up as one mod element to edit, you can change the in game names of each item here.
@@ -35,7 +35,7 @@ tags:
 ## Material Pack (faster making of ore, tools, armor, 20 mins)
 - Now that we know how to make and edit both armor and tools, we will show a quick way to make a full ore and set of tools and blocks with it!
 - In the same section as the armor pack and tool pack is the Material pack
-- ![[Pasted image 20220712151837.png]]
+- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220712151837.png]]
 	- The Icon right after that is an ore pack if they just want to make an ore
 - You choose
 	- name of the material eg. "silver", "diamond", "iron", "ninjaite"
@@ -71,7 +71,7 @@ tags:
 - Change it to say Custom trees at the bottom and fill in the blocks as appropriate
 - Leave tree type as default
 - Example biome with everything filled in as it should be (i didnt make proper textures for everything, I just used placeholder blocks). Everything circled can be changed
-	- ![[Pasted image 20220712153731.png]]
+	- ![[Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220712153731.png]]
 - There are a LOT of properties and settings that can be changed for biomes, make use of the question mark giving an explanation and your own minecraft knowledge to interpret it all
 - Here are some of the sections/major properties to change
 	- Features - lets you change the number of different things per chunk like trees, grass, flowers and more. **Don't let numbers get set too high, it might crash.** I haven't tested numbers so I don't know where it'll crash at just keep an eye on it.

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alternating Series",
+      "path": "Alternating Series.md"
+    },
+    {
       "basename": "Gun Violence Archive",
       "path": "English Research/Gun Violence Archive.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Trig Integrals",
       "path": "Trig Integrals.md"
-    },
-    {
-      "basename": "Telescoping Series",
-      "path": "Telescoping Series.md"
     }
   ],
   "omittedPaths": [

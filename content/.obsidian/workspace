@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English Research/Gun Violence Archive.md",
+            "file": "Alternating Series.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Research/Gun Violence Archive.md",
+                "file": "Alternating Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English Research/Gun Violence Archive.md",
+                "file": "Alternating Series.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +133,7 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
+    "Alternating Series.md",
     "English Research/Gun Violence Archive.md",
     "English Research/What have we learned from the time trend of mass shootings in the U.S..md",
     "English Research/Violent game acceptance the influences of aggression tendency, thrill seeking, and perceived risk.md",
@@ -141,7 +142,6 @@
     "English Research/Video Games and Adolescent Fighting.md",
     "English Research/The Argument That Video Games Spur Mass Shootings Is Losing Steam.md",
     "Apartments.md",
-    "DND/Aeric - me.md",
-    "DND/Hub.md"
+    "DND/Aeric - me.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Codeninjas Camps/Minecraft Modding/_index.md",
+            "file": "Codeninjas Camps/Minecraft Modding/chapters.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeninjas Camps/Minecraft Modding/_index.md",
+                "file": "Codeninjas Camps/Minecraft Modding/chapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Codeninjas Camps/Minecraft Modding/_index.md",
+                "file": "Codeninjas Camps/Minecraft Modding/chapters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +133,8 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
+    "Codeninjas Camps/chapters.md",
+    "Codeninjas Camps/Minecraft Modding/_index.md",
     "Codeninjas Camps/Minecraft Modding/Texture Making.md",
     "Codeninjas Camps/Pasted image 20220630105218.png",
     "Codeninjas Camps/Pasted image 20220628112510.png",
@@ -140,8 +142,6 @@
     "Codeninjas Camps/Building Your own Robot in Minecraft.md",
     "Codeninjas Camps/Minecraft Modding/Setting up Computers.md",
     "Codeninjas Camps/Minecraft Modding/General Camp Notes.md",
-    "Codeninjas Camps/Minecraft Modding/Day 5.md",
-    "Codeninjas Camps/Minecraft Modding/Block.md",
-    "Codeninjas Camps/Minecraft Modding/Modding Pics/Pasted image 20220713162813.png"
+    "Codeninjas Camps/Minecraft Modding/Day 5.md"
   ]
 }

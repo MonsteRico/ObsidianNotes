@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "chapters",
+      "path": "Codeninjas Camps/Minecraft Modding/chapters.md"
+    },
+    {
       "basename": "_index",
       "path": "Codeninjas Camps/Minecraft Modding/_index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alternating Series",
       "path": "Alternating Series.md"
-    },
-    {
-      "basename": "Improper Integral",
-      "path": "Improper Integral.md"
     }
   ],
   "omittedPaths": [

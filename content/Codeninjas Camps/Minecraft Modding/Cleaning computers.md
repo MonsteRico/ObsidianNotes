@@ -11,6 +11,7 @@ tags:
 - Quit game, Google minecraft forge, download 1.18 installer
 - Run it, Install client.
 - Go back into Minecraft Launcher, run the forge version once
+- Change version back to 1.19, logout
 - Install newest version of MCreator, don't keep old files (theres a checkbox for this)
 - OR if newest version of MCreator is installed already
 	- Go to C:/Users/codeninjas user/ and delete MCreatorWorkspaces

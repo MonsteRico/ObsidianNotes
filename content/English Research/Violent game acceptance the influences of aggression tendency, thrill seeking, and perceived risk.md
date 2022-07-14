@@ -12,3 +12,6 @@ tags:
 	- Inconsistent research is never a good source
 - "Most of these studies focus on the impact of violent video games on aggressive behavior rather than the reasons why people choose to play violent video games."
 	- These studies were failing to look at the other possible reasons for the aggressive behaviors such as gender or just inherent personality traits.
+
+
+# BAD

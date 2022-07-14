@@ -14,4 +14,5 @@ tags:
 	- Huge for the mental illness being a cause section
 - "Mass shootings are indeed partially a mental health problem, albeit one poorly addressed by our current laws and policies."
 - It is really easy for people with serious mental health problems to pass background checks. (Paraphrased citation)
-- 
+- "Until all sides of the debate—left and right, those focusing on mental health and those worried about gun control—put aside their political animosity and engage in a real debate, none of our current policies or proposals will do even little to stem the rising tide of gun violence in this count"
+	- They need to just get moving and stop arguing about the reason behind it and instead just fix it by tackling them both instead of arguing which is the real reason.

@@ -14,3 +14,4 @@ tags:
 - libidius god of justice and peace
 - eloriel god battle honor
 - selinos god of fertility nature
+- [[DND/Session 2]]

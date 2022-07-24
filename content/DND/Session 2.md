@@ -11,4 +11,6 @@ tags:
 - "city walls have decided to go wa"
 - empire soldiers are invading and have breached the walls
 	- they sent in the cannon fodder first
+	- a general came in at the end
 - the empire is currently sieging the tree
+- 

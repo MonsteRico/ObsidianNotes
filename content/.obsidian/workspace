@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DND/Jerry Sword of Kings - Adam.md",
+            "file": "DND/Session 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/Jerry Sword of Kings - Adam.md",
+                "file": "DND/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DND/Jerry Sword of Kings - Adam.md",
+                "file": "DND/Session 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,9 +133,9 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
-    "DND/Aeric - me.md",
-    "DND/Jerry Sword of Kings - Adam.md",
     "DND/Session 1.md",
+    "DND/Jerry Sword of Kings - Adam.md",
+    "DND/Aeric - me.md",
     "DND/Cleremy Jarkson - Zaid.md",
     "DND/Ivan NoBangu - Luke.md",
     "DND/Zenita - Em.md",

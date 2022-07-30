@@ -13,6 +13,7 @@ tags:
 - Blood Magic
 - Twilight Forest
 - Blue Skies
+- Beyond Earth
 ## Goals
 - [ ] Beat Ender Dragon
 - [ ] Enter Bumblezone

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "Minecraft Goals.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Minecraft Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_index.md",
+                "file": "Minecraft Goals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +133,7 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
+    "_index.md",
     "Minecraft Goals.md",
     "DND/Session 2.md",
     "DND/Session 1.md",
@@ -141,7 +142,6 @@
     "DND/Cleremy Jarkson - Zaid.md",
     "DND/Ivan NoBangu - Luke.md",
     "DND/Zenita - Em.md",
-    "DND/Abraxas - Jonah.md",
-    "DND/Itheiro- Ethan.md"
+    "DND/Abraxas - Jonah.md"
   ]
 }

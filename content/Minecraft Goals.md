@@ -69,7 +69,7 @@ tags:
 # Phase 6
 ## Final Goals - can be worked on throughout
 - [ ] Zoo
-- [ ] Train Tracks
+- [ ] Train Stations connecting everything
 - [ ] Alex's Mobs Bosses
 - [ ] Twilight Bosses
 - [ ] Blue Skies Bosses

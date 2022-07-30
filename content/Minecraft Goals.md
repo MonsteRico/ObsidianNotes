@@ -50,4 +50,29 @@ tags:
 - [ ] Explore Blue Skies Dimensions
 
 # Phase 4
-## 
+## New Mods Available
+- Extreme Reactors
+- AE2
+## Goals
+- [ ] Build Power Plant base
+- [ ] AE2 Storage Hub
+	- [ ] Link all existing outposts/bases to new storage hub
+
+# Phase 5
+## New Mods Available
+- Nature's Aura
+- Beyond Earth
+## Goals
+- [ ] Natures Aura Base
+- [ ] Outpost on all planets
+
+# Phase 6
+## Final Goals - can be worked on throughout
+- [ ] Zoo
+- [ ] Train Tracks
+- [ ] Alex's Mobs Bosses
+- [ ] Twilight Bosses
+- [ ] Blue Skies Bosses
+- [ ] Any other bosses
+- [ ] Challenges/Achievments
+- [ ] Dungeons

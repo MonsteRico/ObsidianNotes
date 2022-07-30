@@ -11,6 +11,7 @@ tags:
 	- Houses the portal as well
 	- Decorated around the dimension/biome of dimension
 	- Advancement room for the dimension
+	- Use mainly stuff from the dimension eg don't build the End outpost out of oak wood make it end based or at least end colored
 - Base requirements
 	- All major stepping stones of mod should be showcased somewhere
 	- Advancement room for any cool advancements

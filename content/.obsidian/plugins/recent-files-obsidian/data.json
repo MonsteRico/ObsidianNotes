@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
       "basename": "Minecraft Goals",
       "path": "Minecraft Goals.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Hub",
       "path": "DND/Hub.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
     },
     {
       "basename": "CodeNinjas Camps",

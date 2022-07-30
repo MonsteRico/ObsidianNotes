@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Minecraft Goals.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Goals.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Goals.md",
+                "file": "_index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,6 +133,7 @@
   },
   "active": "d4bd92126af9b76d",
   "lastOpenFiles": [
+    "Minecraft Goals.md",
     "DND/Session 2.md",
     "DND/Session 1.md",
     "DND/Jerry Sword of Kings - Adam.md",
@@ -141,7 +142,6 @@
     "DND/Ivan NoBangu - Luke.md",
     "DND/Zenita - Em.md",
     "DND/Abraxas - Jonah.md",
-    "DND/Itheiro- Ethan.md",
-    "DND/null.md"
+    "DND/Itheiro- Ethan.md"
   ]
 }
